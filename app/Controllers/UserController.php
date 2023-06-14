@@ -40,7 +40,7 @@ class UserController extends Controller
     $this->userModel = new UserModel();
     $user = $this->userModel->find($id);
     
-
+ 
     // Verificar si el usuario existe
     if ($user) {
         $baja = $user['baja'];
@@ -57,6 +57,8 @@ class UserController extends Controller
         // Guardar los cambios en la base de datos
 
     }
+    
+    session()->setFlashdata('msg', 'baja cambiada');
     return redirect()->to('/usarios');
 }
 public function change_id($id)
@@ -64,7 +66,7 @@ public function change_id($id)
     // Lógica para cambiar el valor de "baja" a "SI" en la base de datos para el usuario con el ID especificado
     $this->userModel = new UserModel();
     $user = $this->userModel->find($id);
-    
+
     if ($user) {
         // Realiza las acciones necesarias con los datos del usuario encontrado
         $perfil_id = $user['perfil_id'];
@@ -80,7 +82,8 @@ public function change_id($id)
             $this->userModel->update($id, ['perfil_id' => '2']);
         }
     }
-     redirect()->to('/usarios');
+    session()->setFlashdata('msg', 'perfil_id cambiado');
+    return redirect()->to('/usarios');
 }
 
 public function buscar()

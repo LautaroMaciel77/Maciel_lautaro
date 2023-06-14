@@ -86,8 +86,8 @@
 
 
 <div class="d-grid mt-3">
-    <button type="submit" class="btn btn-danger mb-3">subir producto</button>
-    <button type="reset" class="btn btn-danger mb-3">cancelar</button>
+    <button type="submit" class="btn btn-sm custom-btn  mb-3">subir producto</button>
+    <a href="<?= site_url('/productos') ?>" class="btn text-white btn-sm custom-btn mt-3 mb-3">cancelar</a>
 </div>
 
 </form>

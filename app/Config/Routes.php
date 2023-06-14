@@ -41,12 +41,11 @@ $routes->get('/signup', 'SignupController::index');
 $routes->match(['get', 'post'], '/catalogo', 'ProductoController::catalogo');
 /*consulta*/
 $routes->match(['get', 'post'], '/store_consulta', 'consultaController::store');
-
-$routes->group('', ['filter' => 'auth'], function ($routes) {
-
 $routes->match(['get', 'post'], '/buscar_catalogo', 'ProductoController::buscar_catalogo');
 
+
 /*rutas para auth*/
+$routes->group('', ['filter' => 'auth'], function ($routes) {
 /*usuario */
 
 $routes->match(['get', 'post'], 'user/editar_usuario/(:num)', 'UserController::editar_usuario/$1');

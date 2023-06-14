@@ -58,8 +58,8 @@
     </div>
 
     <div class="d-grid">
-    <button type="submit" class="btn btn-danger mb-3">editar</button>
-    <button type="reset" class="btn btn-danger mb-3">cancelar</button>
+    <button type="submit" class="btn  btn-sm custom-btn mt-3 mb-3">editar</button>
+  
 </div>
 
 </form>
