@@ -103,7 +103,7 @@ public function comprar_carrito()
     $ventaCabecera = new Ventas_cabecera_model();
     $id_session=intval(session()->id);
 
-    $fechaActual = date('Y-m-d'); // Obtener la fecha actual en el formato deseado
+    $fechaActual = date('Y-m-d H:i:s'); // Obtener la fecha actual en el formato deseado
 
     $idcabecera = $ventaCabecera->insert([
         "total_venta" => $montoTotal,

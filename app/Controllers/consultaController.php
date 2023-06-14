@@ -114,7 +114,7 @@ public function buscar()
                 'asunto' =>  $this->request->getVar('asunto'),
                 'mail' =>  $this->request->getVar('mail'),
                 'descripcion' => $this->request->getVar('mensaje'),
-                'fecha_consulta' => date('Y-m-d'),
+                'fecha_consulta' =>date('Y-m-d H:i:s'),
             ];
     
             // Guarda la consulta en la base de datos
