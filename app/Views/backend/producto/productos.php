@@ -66,7 +66,7 @@
 </form>
 
 <form action="<?= base_url('product/editar_producto/' . $producto['id']) ?>" method="post" style="display: inline;">
-    <button type="submit" class="btn btn-sm">Editar</button>
+    <button type="submit" class="btn btn-sm mt-2">Editar</button>
 </form>
 
                             </td>

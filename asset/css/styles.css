@@ -12,7 +12,7 @@
 
 /*comienzo barra de navegacions*/
 body::-webkit-scrollbar {
-    width: 0.25em;
+    width: 1em;
 }
 
 body::-webkit-scrollbar-track {
