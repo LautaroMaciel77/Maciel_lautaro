@@ -123,7 +123,7 @@ public function comprar_carrito(){
         "stock"=>$product["qty"],"precio"=>$producto["price"]]);
         $productomodel->update($producto["id"],["stock"=>$producto["stock"]- $producto["qty"]]);
     }
-    return redirect()->back()->withInput();
+    return redirect()->back()->withInput('msg','Gracias por Comprar en HobbyMania');
 }
 
 public function restar_carrito(){
@@ -145,9 +145,10 @@ public function restar_carrito(){
         $cart = \Config\Services::cart();
 
         $cantidad = $cart->getItem($this->request->getGet("id"))["qty"];
-        $cantidadMax = $cart->getItem($this->request->getGet("id"))["stock_min"];
-      
-        if($cantidad < $cantidadMax){ 
+        $stock_min = $cart->getItem($this->request->getGet("id"))["stock_min"];
+        $stock=$cart->getItem($this->request->getGet("id"))["stock"];
+        $stockDisponible=$stock-$stock_min;
+        if($cantidad < $stockDisponible){ 
             $cart->update(array(
                 "rowid" => $this->request->getGet("id"),
                 "qty" => $cantidad+1

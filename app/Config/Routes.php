@@ -41,6 +41,7 @@ $routes->get('/signup', 'SignupController::index');
 $routes->match(['get', 'post'], '/catalogo', 'ProductoController::catalogo');
 /*consulta*/
 $routes->match(['get', 'post'], '/store_consulta', 'consultaController::store');
+
 $routes->group('', ['filter' => 'auth'], function ($routes) {
 
 $routes->match(['get', 'post'], '/buscar_catalogo', 'ProductoController::buscar_catalogo');
@@ -72,7 +73,7 @@ $routes->get('favoritos/borrar/(:num)', 'FavoritosController::borrar/$1');
 
 
 /*rutas para admin*/
-$routes->group('admin', ['filter' => 'auth|admin'], function ($routes) {
+$routes->group('', ['filter' => 'admin'], function ($routes) {
 /*usuarios*/
 $routes->post('user/change_baja/(:num)', 'UserController::changeBaja/$1');
 $routes->post('user/change_id/(:num)', 'UserController::change_id/$1');

@@ -77,7 +77,7 @@
                             </li>
                             <li><a class="dropdown-item" href="<?php echo base_url("/banner"); ?>">lista de banner</a>
                             </li>  
-                            <li><a class="dropdown-item" href="<?php echo base_url("/alta_banner"); ?>">lista de banner en desuso</a>
+                            <li><a class="dropdown-item" href="<?php echo base_url("/banner_eliminados"); ?>">lista de banner en desuso</a>
                             </li>                
                         </ul>
                         </li>

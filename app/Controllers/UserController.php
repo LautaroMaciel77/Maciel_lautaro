@@ -177,8 +177,12 @@ public function editar_usuario($id){
     
         $userModel->update($id, $data);
         session()->setFlashdata('msg', 'Cuenta actualizada');
+        if( $user['perfil_id']==1){
         return redirect()->to('/usarios');
     }
+    return redirect()->to('/');
+
+}
     
 
 public function mostrar_todo(){
