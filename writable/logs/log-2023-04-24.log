@@ -1,0 +1,72 @@
+CRITICAL - 2023-04-24 04:49:52 --> Invalid file: "front/proyecto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/proyecto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/proyecto', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('front/proyecto')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-24 05:59:28 --> syntax error, unexpected token "<"
+in APPPATH\Views\front\navbar.php on line 11.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/navbar', [], true)
+ 3 APPPATH\Controllers\Home.php(12): view('front/navbar')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-24 09:32:25 --> Invalid file: "front/proyecto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/proyecto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/proyecto', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('front/proyecto')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-24 09:33:35 --> Invalid file: "front/proyecto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/proyecto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/proyecto', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('front/proyecto')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-24 09:51:28 --> Invalid file: "front/proyecto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/proyecto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/proyecto', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('front/proyecto')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-24 09:56:20 --> Invalid file: "front/proyecto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/proyecto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/proyecto', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('front/proyecto')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-24 10:21:44 --> Invalid file: "front/proyecto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/proyecto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/proyecto', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('front/proyecto')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-24 21:45:34 --> Invalid file: "front/proyecto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('front/proyecto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/proyecto', [], true)
+ 3 APPPATH\Controllers\Home.php(13): view('front/proyecto')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()

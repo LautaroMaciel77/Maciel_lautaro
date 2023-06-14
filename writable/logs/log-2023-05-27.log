@@ -1,0 +1,415 @@
+INFO - 2023-05-27 00:20:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-27 00:20:59 --> Undefined variable $productos
+in APPPATH\Views\backend\productos.php on line 31.
+ 1 APPPATH\Views\backend\productos.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productos', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\productos.php', 31)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\productos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/productos', [], true)
+ 5 APPPATH\Controllers\ProductoController.php(16): view('backend/productos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 00:21:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-27 00:21:07 --> Undefined array key "eliminado"
+in APPPATH\Views\backend\productos.php on line 42.
+ 1 APPPATH\Views\backend\productos.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "eliminado"', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\productos.php', 42)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\productos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/productos', [], true)
+ 5 APPPATH\Controllers\ProductoController.php(16): view('backend/productos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 00:21:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 00:22:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 00:22:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 00:22:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 00:23:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 00:23:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 00:23:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 00:23:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 00:23:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 00:23:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-27 00:23:34 --> Undefined array key "eliminado"
+in APPPATH\Views\backend\productos.php on line 40.
+ 1 APPPATH\Views\backend\productos.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "eliminado"', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\productos.php', 40)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\productos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/productos', [], true)
+ 5 APPPATH\Controllers\ProductoController.php(16): view('backend/productos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 00:23:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 02:03:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 22:18:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 22:21:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 22:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 22:22:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 22:23:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 22:23:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-27 22:23:41 --> Undefined array key "eliminado"
+in APPPATH\Views\backend\productos.php on line 36.
+ 1 APPPATH\Views\backend\productos.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "eliminado"', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\productos.php', 36)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\productos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/productos', [], true)
+ 5 APPPATH\Controllers\ProductoController.php(16): view('backend/productos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 22:23:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 22:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 22:41:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 22:41:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 22:41:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 22:59:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 22:59:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:00:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-27 23:00:23 --> Undefined variable $user
+in APPPATH\Views\backend\productos.php on line 55.
+ 1 APPPATH\Views\backend\productos.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\productos.php', 55)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\productos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/productos', [], true)
+ 5 APPPATH\Controllers\ProductoController.php(16): view('backend/productos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 23:02:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:02:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-27 23:02:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\ProductoController::$productModel is deprecated in APPPATH\Controllers\ProductoController.php on line 42.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->changeBaja('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 23:02:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-27 23:02:34 --> syntax error, unexpected token "endforeach", expecting end of file
+in APPPATH\Views\backend\producto_eliminado.php on line 59.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/producto_eliminado', [], true)
+ 3 APPPATH\Controllers\ProductoController.php(35): view('backend/producto_eliminado', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->baja()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 23:03:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-27 23:03:26 --> Undefined array key "eliminado"
+in APPPATH\Views\backend\producto_eliminado.php on line 42.
+ 1 APPPATH\Views\backend\producto_eliminado.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "eliminado"', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\producto_eliminado.php', 42)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\producto_eliminado.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/producto_eliminado', [], true)
+ 5 APPPATH\Controllers\ProductoController.php(35): view('backend/producto_eliminado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->baja()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 23:03:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-27 23:03:27 --> Undefined array key "eliminado"
+in APPPATH\Views\backend\producto_eliminado.php on line 42.
+ 1 APPPATH\Views\backend\producto_eliminado.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "eliminado"', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\producto_eliminado.php', 42)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\producto_eliminado.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/producto_eliminado', [], true)
+ 5 APPPATH\Controllers\ProductoController.php(35): view('backend/producto_eliminado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->baja()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 23:03:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-27 23:03:36 --> Undefined variable $producto
+in APPPATH\Views\backend\producto_eliminado.php on line 44.
+ 1 APPPATH\Views\backend\producto_eliminado.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\producto_eliminado.php', 44)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\producto_eliminado.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/producto_eliminado', [], true)
+ 5 APPPATH\Controllers\ProductoController.php(35): view('backend/producto_eliminado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->baja()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 23:04:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-27 23:04:00 --> Undefined variable $producto
+in APPPATH\Views\backend\producto_eliminado.php on line 41.
+ 1 APPPATH\Views\backend\producto_eliminado.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\producto_eliminado.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\producto_eliminado.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/producto_eliminado', [], true)
+ 5 APPPATH\Controllers\ProductoController.php(35): view('backend/producto_eliminado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->baja()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 23:04:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:04:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-27 23:04:40 --> Undefined variable $producto
+in APPPATH\Views\backend\producto_eliminado.php on line 41.
+ 1 APPPATH\Views\backend\producto_eliminado.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\producto_eliminado.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\producto_eliminado.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/producto_eliminado', [], true)
+ 5 APPPATH\Controllers\ProductoController.php(35): view('backend/producto_eliminado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->baja()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 23:05:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:05:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:05:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-27 23:05:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\ProductoController::$productModel is deprecated in APPPATH\Controllers\ProductoController.php on line 43.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->changeBaja('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 23:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:06:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:06:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-27 23:06:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\ProductoController::$productModel is deprecated in APPPATH\Controllers\ProductoController.php on line 43.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->changeBaja('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 23:06:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-27 23:09:34 --> Unclosed '{' on line 6
+in APPPATH\Controllers\ProductoController.php on line 111.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductoController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductoController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\ProductoController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-27 23:09:35 --> Unclosed '{' on line 6
+in APPPATH\Controllers\ProductoController.php on line 111.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductoController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductoController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\ProductoController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 23:09:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-27 23:09:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\ProductoController::$productModel is deprecated in APPPATH\Controllers\ProductoController.php on line 43.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->changeBaja('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 23:09:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:09:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-27 23:09:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\ProductoController::$productModel is deprecated in APPPATH\Controllers\ProductoController.php on line 43.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->changeBaja('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 23:09:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:09:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-27 23:10:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\ProductoController::$productModel is deprecated in APPPATH\Controllers\ProductoController.php on line 43.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->changeBaja('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 23:10:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:10:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:10:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-27 23:10:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\ProductoController::$productModel is deprecated in APPPATH\Controllers\ProductoController.php on line 43.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->changeBaja('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 23:10:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:10:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-27 23:10:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\ProductoController::$productModel is deprecated in APPPATH\Controllers\ProductoController.php on line 43.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->changeBaja('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 23:10:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:10:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:10:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:10:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:10:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:11:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:11:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:11:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-27 23:11:37 --> syntax error, unexpected identifier "redirect"
+in APPPATH\Controllers\UserController.php on line 75.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\UserController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\UserController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\UserController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\UserController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 23:11:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:11:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:11:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:12:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:12:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:12:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:12:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-27 23:26:46 --> syntax error, unexpected token "public", expecting end of file
+in APPPATH\Controllers\ProductoController.php on line 115.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductoController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductoController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\ProductoController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 23:27:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-27 23:27:04 --> syntax error, unexpected identifier "redirect"
+in APPPATH\Controllers\UserController.php on line 75.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\UserController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\UserController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\UserController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\UserController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 23:27:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-27 23:27:51 --> Undefined variable $producto
+in APPPATH\Controllers\ProductoController.php on line 119.
+ 1 APPPATH\Controllers\ProductoController.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php', 119)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->buscar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 23:28:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-27 23:29:00 --> Undefined variable $producto
+in APPPATH\Controllers\ProductoController.php on line 119.
+ 1 APPPATH\Controllers\ProductoController.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php', 119)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->buscar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 23:29:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:29:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-27 23:29:06 --> Undefined variable $producto
+in APPPATH\Controllers\ProductoController.php on line 119.
+ 1 APPPATH\Controllers\ProductoController.php(119): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php', 119)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->buscar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-27 23:32:16 --> Unclosed '{' on line 6
+in APPPATH\Controllers\ProductoController.php on line 130.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductoController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductoController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\ProductoController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 23:32:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-27 23:32:39 --> Undefined variable $producto
+in APPPATH\Controllers\ProductoController.php on line 124.
+ 1 APPPATH\Controllers\ProductoController.php(124): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php', 124)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->buscar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 23:33:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:33:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:33:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:33:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-27 23:33:24 --> Invalid file: "backend/producto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/producto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/producto', [], true)
+ 3 APPPATH\Controllers\ProductoController.php(128): view('backend/producto', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->buscar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 23:33:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:33:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:33:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:33:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:33:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:35:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:35:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:35:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:35:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:35:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:35:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:35:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:36:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-27 23:36:16 --> Undefined array key "elimininados"
+in APPPATH\Views\backend\productos.php on line 41.
+ 1 APPPATH\Views\backend\productos.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "elimininados"', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\productos.php', 41)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\productos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/productos', [], true)
+ 5 APPPATH\Controllers\ProductoController.php(16): view('backend/productos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-27 23:36:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:36:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:36:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:36:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:36:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:36:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:36:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:36:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:36:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:36:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:36:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:36:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:36:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:36:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:37:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:37:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:37:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:37:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:37:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:37:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:37:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:37:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:37:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:37:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:37:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:37:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:37:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:37:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:37:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:37:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:37:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:37:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:37:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:37:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:38:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:38:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:38:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:38:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:38:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:38:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:38:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:38:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:38:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:38:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:38:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:38:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:38:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:38:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:38:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:38:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:38:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:39:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:39:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:39:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:40:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:41:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:41:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:41:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:41:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:41:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-27 23:41:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

@@ -1,0 +1,1424 @@
+CRITICAL - 2023-06-07 01:18:03 --> syntax error, unexpected token ";", expecting "]"
+in APPPATH\Controllers\consultaController.php on line 69.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\consultaController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\consultaController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\consultaController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\consultaController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 01:19:05 --> syntax error, unexpected token ";", expecting "]"
+in APPPATH\Controllers\consultaController.php on line 69.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\consultaController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\consultaController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\consultaController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\consultaController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 01:19:34 --> syntax error, unexpected token ";", expecting ")"
+in APPPATH\Controllers\consultaController.php on line 74.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\consultaController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\consultaController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\consultaController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\consultaController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 01:19:35 --> syntax error, unexpected token ";", expecting ")"
+in APPPATH\Controllers\consultaController.php on line 74.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\consultaController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\consultaController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\consultaController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\consultaController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 01:19:47 --> Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\consultaController.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 01:20:06 --> Undefined property: App\Controllers\consultaController::$resquest
+in APPPATH\Controllers\consultaController.php on line 69.
+ 1 APPPATH\Controllers\consultaController.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\consultaController::$resquest', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\consultaController.php', 69)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 01:20:07 --> Undefined property: App\Controllers\consultaController::$resquest
+in APPPATH\Controllers\consultaController.php on line 69.
+ 1 APPPATH\Controllers\consultaController.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\consultaController::$resquest', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\consultaController.php', 69)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 01:21:05 --> Undefined property: App\Controllers\consultaController::$resquest
+in APPPATH\Controllers\consultaController.php on line 75.
+ 1 APPPATH\Controllers\consultaController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\consultaController::$resquest', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\consultaController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 01:21:06 --> Undefined property: App\Controllers\consultaController::$resquest
+in APPPATH\Controllers\consultaController.php on line 75.
+ 1 APPPATH\Controllers\consultaController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\consultaController::$resquest', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\consultaController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 01:21:07 --> Undefined property: App\Controllers\consultaController::$resquest
+in APPPATH\Controllers\consultaController.php on line 75.
+ 1 APPPATH\Controllers\consultaController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\consultaController::$resquest', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\consultaController.php', 75)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 01:23:56 --> Undefined property: App\Controllers\consultaController::$resquest
+in APPPATH\Controllers\consultaController.php on line 71.
+ 1 APPPATH\Controllers\consultaController.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\consultaController::$resquest', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\consultaController.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 01:23:57 --> Undefined property: App\Controllers\consultaController::$resquest
+in APPPATH\Controllers\consultaController.php on line 71.
+ 1 APPPATH\Controllers\consultaController.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\consultaController::$resquest', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\consultaController.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:24:52 --> [DEPRECATED] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): strpos(null, ',')
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(76): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:24:52 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): trim(null)
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(76): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 01:24:52 --> Undefined array key "asunto"
+in APPPATH\Controllers\consultaController.php on line 77.
+ 1 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "asunto"', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\consultaController.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:25:24 --> [DEPRECATED] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): strpos(null, ',')
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:25:24 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): trim(null)
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:25:24 --> [DEPRECATED] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH\Email\Email.php on line 1465.
+ 1 SYSTEMPATH\Email\Email.php(1465): str_replace([...], '', null)
+ 2 SYSTEMPATH\Email\Email.php(628): CodeIgniter\Email\Email->prepQEncoding(null)
+ 3 APPPATH\Controllers\consultaController.php(78): CodeIgniter\Email\Email->setSubject(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 01:25:24 --> Undefined variable $mensaje
+in APPPATH\Views\mail\mail_detail.php on line 13.
+ 1 APPPATH\Views\mail\mail_detail.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\mail\\mail_detail.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\mail\\mail_detail.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('\\mail\\mail_detail', [], true)
+ 5 APPPATH\Controllers\consultaController.php(79): view('\\mail\\mail_detail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:25:59 --> [DEPRECATED] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): strpos(null, ',')
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:25:59 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): trim(null)
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:25:59 --> [DEPRECATED] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH\Email\Email.php on line 1465.
+ 1 SYSTEMPATH\Email\Email.php(1465): str_replace([...], '', null)
+ 2 SYSTEMPATH\Email\Email.php(628): CodeIgniter\Email\Email->prepQEncoding(null)
+ 3 APPPATH\Controllers\consultaController.php(78): CodeIgniter\Email\Email->setSubject(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 01:25:59 --> Undefined variable $mensaje
+in APPPATH\Views\mail\mail_detail.php on line 13.
+ 1 APPPATH\Views\mail\mail_detail.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\mail\\mail_detail.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\mail\\mail_detail.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('\\mail\\mail_detail', [], true)
+ 5 APPPATH\Controllers\consultaController.php(79): view('\\mail\\mail_detail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:26:00 --> [DEPRECATED] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): strpos(null, ',')
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:26:00 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): trim(null)
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:26:00 --> [DEPRECATED] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH\Email\Email.php on line 1465.
+ 1 SYSTEMPATH\Email\Email.php(1465): str_replace([...], '', null)
+ 2 SYSTEMPATH\Email\Email.php(628): CodeIgniter\Email\Email->prepQEncoding(null)
+ 3 APPPATH\Controllers\consultaController.php(78): CodeIgniter\Email\Email->setSubject(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 01:26:00 --> Undefined variable $mensaje
+in APPPATH\Views\mail\mail_detail.php on line 13.
+ 1 APPPATH\Views\mail\mail_detail.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\mail\\mail_detail.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\mail\\mail_detail.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('\\mail\\mail_detail', [], true)
+ 5 APPPATH\Controllers\consultaController.php(79): view('\\mail\\mail_detail', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:26:17 --> [DEPRECATED] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): strpos(null, ',')
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:26:17 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): trim(null)
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:26:17 --> [DEPRECATED] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH\Email\Email.php on line 1465.
+ 1 SYSTEMPATH\Email\Email.php(1465): str_replace([...], '', null)
+ 2 SYSTEMPATH\Email\Email.php(628): CodeIgniter\Email\Email->prepQEncoding(null)
+ 3 APPPATH\Controllers\consultaController.php(78): CodeIgniter\Email\Email->setSubject(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 01:26:17 --> Too few arguments to function view(), 0 passed in C:\xampp\htdocs\Maciel_lautaro\app\Controllers\consultaController.php on line 80 and at least 1 expected
+in SYSTEMPATH\Common.php on line 1172.
+ 1 APPPATH\Controllers\consultaController.php(80): view()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:26:27 --> [DEPRECATED] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): strpos(null, ',')
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:26:27 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): trim(null)
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:26:27 --> [DEPRECATED] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH\Email\Email.php on line 1465.
+ 1 SYSTEMPATH\Email\Email.php(1465): str_replace([...], '', null)
+ 2 SYSTEMPATH\Email\Email.php(628): CodeIgniter\Email\Email->prepQEncoding(null)
+ 3 APPPATH\Controllers\consultaController.php(78): CodeIgniter\Email\Email->setSubject(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 01:26:27 --> Too few arguments to function view(), 0 passed in C:\xampp\htdocs\Maciel_lautaro\app\Controllers\consultaController.php on line 80 and at least 1 expected
+in SYSTEMPATH\Common.php on line 1172.
+ 1 APPPATH\Controllers\consultaController.php(80): view()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:26:27 --> [DEPRECATED] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): strpos(null, ',')
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:26:27 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): trim(null)
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:26:27 --> [DEPRECATED] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH\Email\Email.php on line 1465.
+ 1 SYSTEMPATH\Email\Email.php(1465): str_replace([...], '', null)
+ 2 SYSTEMPATH\Email\Email.php(628): CodeIgniter\Email\Email->prepQEncoding(null)
+ 3 APPPATH\Controllers\consultaController.php(78): CodeIgniter\Email\Email->setSubject(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 01:26:27 --> Too few arguments to function view(), 0 passed in C:\xampp\htdocs\Maciel_lautaro\app\Controllers\consultaController.php on line 80 and at least 1 expected
+in SYSTEMPATH\Common.php on line 1172.
+ 1 APPPATH\Controllers\consultaController.php(80): view()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:26:28 --> [DEPRECATED] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): strpos(null, ',')
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:26:28 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): trim(null)
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:26:28 --> [DEPRECATED] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH\Email\Email.php on line 1465.
+ 1 SYSTEMPATH\Email\Email.php(1465): str_replace([...], '', null)
+ 2 SYSTEMPATH\Email\Email.php(628): CodeIgniter\Email\Email->prepQEncoding(null)
+ 3 APPPATH\Controllers\consultaController.php(78): CodeIgniter\Email\Email->setSubject(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 01:26:28 --> Too few arguments to function view(), 0 passed in C:\xampp\htdocs\Maciel_lautaro\app\Controllers\consultaController.php on line 80 and at least 1 expected
+in SYSTEMPATH\Common.php on line 1172.
+ 1 APPPATH\Controllers\consultaController.php(80): view()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:26:28 --> [DEPRECATED] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): strpos(null, ',')
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:26:28 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): trim(null)
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:26:28 --> [DEPRECATED] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH\Email\Email.php on line 1465.
+ 1 SYSTEMPATH\Email\Email.php(1465): str_replace([...], '', null)
+ 2 SYSTEMPATH\Email\Email.php(628): CodeIgniter\Email\Email->prepQEncoding(null)
+ 3 APPPATH\Controllers\consultaController.php(78): CodeIgniter\Email\Email->setSubject(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 01:26:28 --> Too few arguments to function view(), 0 passed in C:\xampp\htdocs\Maciel_lautaro\app\Controllers\consultaController.php on line 80 and at least 1 expected
+in SYSTEMPATH\Common.php on line 1172.
+ 1 APPPATH\Controllers\consultaController.php(80): view()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:26:29 --> [DEPRECATED] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): strpos(null, ',')
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:26:29 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): trim(null)
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:26:29 --> [DEPRECATED] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH\Email\Email.php on line 1465.
+ 1 SYSTEMPATH\Email\Email.php(1465): str_replace([...], '', null)
+ 2 SYSTEMPATH\Email\Email.php(628): CodeIgniter\Email\Email->prepQEncoding(null)
+ 3 APPPATH\Controllers\consultaController.php(78): CodeIgniter\Email\Email->setSubject(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 01:26:29 --> Too few arguments to function view(), 0 passed in C:\xampp\htdocs\Maciel_lautaro\app\Controllers\consultaController.php on line 80 and at least 1 expected
+in SYSTEMPATH\Common.php on line 1172.
+ 1 APPPATH\Controllers\consultaController.php(80): view()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-07 01:29:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 01:30:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-07 01:34:02 --> [DEPRECATED] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): strpos(null, ',')
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:34:02 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): trim(null)
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 01:34:02 --> Too few arguments to function view(), 0 passed in C:\xampp\htdocs\Maciel_lautaro\app\Controllers\consultaController.php on line 80 and at least 1 expected
+in SYSTEMPATH\Common.php on line 1172.
+ 1 APPPATH\Controllers\consultaController.php(80): view()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-07 01:36:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-07 01:37:00 --> [DEPRECATED] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): strpos(null, ',')
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:37:00 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): trim(null)
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 01:37:00 --> Too few arguments to function view(), 0 passed in C:\xampp\htdocs\Maciel_lautaro\app\Controllers\consultaController.php on line 80 and at least 1 expected
+in SYSTEMPATH\Common.php on line 1172.
+ 1 APPPATH\Controllers\consultaController.php(80): view()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:37:30 --> [DEPRECATED] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): strpos(null, ',')
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:37:30 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): trim(null)
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 01:37:30 --> Too few arguments to function view(), 0 passed in C:\xampp\htdocs\Maciel_lautaro\app\Controllers\consultaController.php on line 80 and at least 1 expected
+in SYSTEMPATH\Common.php on line 1172.
+ 1 APPPATH\Controllers\consultaController.php(80): view()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-07 01:38:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-07 01:38:57 --> [DEPRECATED] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): strpos(null, ',')
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:38:57 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): trim(null)
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:39:11 --> [DEPRECATED] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): strpos(null, ',')
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:39:11 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): trim(null)
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-07 01:39:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 01:40:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-07 01:40:34 --> [DEPRECATED] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): strpos(null, ',')
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:40:34 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): trim(null)
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 01:40:34 --> syntax error, unexpected token ";"
+in APPPATH\Views\mail\mail_detail.php on line 12.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('\\mail\\mail_detail.php', [], true)
+ 3 APPPATH\Controllers\consultaController.php(79): view('\\mail\\mail_detail.php', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:40:52 --> [DEPRECATED] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): strpos(null, ',')
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:40:52 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): trim(null)
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-07 01:40:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 01:40:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 01:42:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-07 01:43:05 --> [DEPRECATED] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): strpos(null, ',')
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 01:43:05 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): trim(null)
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-07 01:43:09 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-06-07 01:43:09 --> 220 smtp.mailtrap.io ESMTP ready
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-AUTH PLAIN LOGIN CRAM-MD5
+250 STARTTLS
+
+starttls: 220 2.0.0 Start TLS
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 AUTH PLAIN LOGIN CRAM-MD5
+
+from: 250 2.1.0 Ok
+
+to: 501 5.1.7 Bad sender address syntax
+
+The following SMTP error was encountered: 501 5.1.7 Bad sender address syntax
+
+quit: 221 2.0.0 Bye
+
+ERROR - 2023-06-07 01:43:13 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-06-07 01:43:13 --> 220 smtp.mailtrap.io ESMTP ready
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-AUTH PLAIN LOGIN CRAM-MD5
+250 STARTTLS
+
+starttls: 220 2.0.0 Start TLS
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 AUTH PLAIN LOGIN CRAM-MD5
+
+from: 250 2.1.0 Ok
+
+to: 501 5.1.7 Bad sender address syntax
+
+The following SMTP error was encountered: 501 5.1.7 Bad sender address syntax
+
+quit: 221 2.0.0 Bye
+
+Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+220 smtp.mailtrap.io ESMTP ready
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-AUTH PLAIN LOGIN CRAM-MD5
+250 STARTTLS
+
+starttls: 220 2.0.0 Start TLS
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 AUTH PLAIN LOGIN CRAM-MD5
+
+from: 250 2.1.0 Ok
+
+to: 501 5.1.7 Bad sender address syntax
+
+The following SMTP error was encountered: 501 5.1.7 Bad sender address syntax
+
+quit: 221 2.0.0 Bye
+
+INFO - 2023-06-07 01:43:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 01:43:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-07 02:01:22 --> [DEPRECATED] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): strpos(null, ',')
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 02:01:22 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): trim(null)
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-07 02:01:26 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-06-07 02:01:26 --> 220 smtp.mailtrap.io ESMTP ready
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-AUTH PLAIN LOGIN CRAM-MD5
+250 STARTTLS
+
+starttls: 220 2.0.0 Start TLS
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 AUTH PLAIN LOGIN CRAM-MD5
+
+from: 250 2.1.0 Ok
+
+to: 501 5.1.7 Bad sender address syntax
+
+The following SMTP error was encountered: 501 5.1.7 Bad sender address syntax
+
+quit: 221 2.0.0 Bye
+
+ERROR - 2023-06-07 02:01:29 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-06-07 02:01:29 --> 220 smtp.mailtrap.io ESMTP ready
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-AUTH PLAIN LOGIN CRAM-MD5
+250 STARTTLS
+
+starttls: 220 2.0.0 Start TLS
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 AUTH PLAIN LOGIN CRAM-MD5
+
+from: 250 2.1.0 Ok
+
+to: 501 5.1.7 Bad sender address syntax
+
+The following SMTP error was encountered: 501 5.1.7 Bad sender address syntax
+
+quit: 221 2.0.0 Bye
+
+Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+220 smtp.mailtrap.io ESMTP ready
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-AUTH PLAIN LOGIN CRAM-MD5
+250 STARTTLS
+
+starttls: 220 2.0.0 Start TLS
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 AUTH PLAIN LOGIN CRAM-MD5
+
+from: 250 2.1.0 Ok
+
+to: 501 5.1.7 Bad sender address syntax
+
+The following SMTP error was encountered: 501 5.1.7 Bad sender address syntax
+
+quit: 221 2.0.0 Bye
+
+INFO - 2023-06-07 02:01:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 02:01:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 02:02:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 02:02:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-07 02:08:59 --> [DEPRECATED] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): strpos(null, ',')
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 02:08:59 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): trim(null)
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-07 02:09:03 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-06-07 02:09:03 --> 220 smtp.mailtrap.io ESMTP ready
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-AUTH PLAIN LOGIN CRAM-MD5
+250 STARTTLS
+
+starttls: 220 2.0.0 Start TLS
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 AUTH PLAIN LOGIN CRAM-MD5
+
+from: 250 2.1.0 Ok
+
+to: 501 5.1.7 Bad sender address syntax
+
+The following SMTP error was encountered: 501 5.1.7 Bad sender address syntax
+
+quit: 221 2.0.0 Bye
+
+ERROR - 2023-06-07 02:09:06 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-06-07 02:09:06 --> 220 smtp.mailtrap.io ESMTP ready
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-AUTH PLAIN LOGIN CRAM-MD5
+250 STARTTLS
+
+starttls: 220 2.0.0 Start TLS
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 AUTH PLAIN LOGIN CRAM-MD5
+
+from: 250 2.1.0 Ok
+
+to: 501 5.1.7 Bad sender address syntax
+
+The following SMTP error was encountered: 501 5.1.7 Bad sender address syntax
+
+quit: 221 2.0.0 Bye
+
+Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+220 smtp.mailtrap.io ESMTP ready
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-AUTH PLAIN LOGIN CRAM-MD5
+250 STARTTLS
+
+starttls: 220 2.0.0 Start TLS
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 AUTH PLAIN LOGIN CRAM-MD5
+
+from: 250 2.1.0 Ok
+
+to: 501 5.1.7 Bad sender address syntax
+
+The following SMTP error was encountered: 501 5.1.7 Bad sender address syntax
+
+quit: 221 2.0.0 Bye
+
+INFO - 2023-06-07 02:09:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 02:11:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-07 02:11:24 --> [DEPRECATED] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): strpos(null, ',')
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 02:11:24 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): trim(null)
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-07 02:11:27 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-06-07 02:11:27 --> 220 smtp.mailtrap.io ESMTP ready
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-AUTH PLAIN LOGIN CRAM-MD5
+250 STARTTLS
+
+starttls: 220 2.0.0 Start TLS
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 AUTH PLAIN LOGIN CRAM-MD5
+
+from: 250 2.1.0 Ok
+
+to: 501 5.1.7 Bad sender address syntax
+
+The following SMTP error was encountered: 501 5.1.7 Bad sender address syntax
+
+quit: 221 2.0.0 Bye
+
+ERROR - 2023-06-07 02:11:30 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-06-07 02:11:30 --> 220 smtp.mailtrap.io ESMTP ready
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-AUTH PLAIN LOGIN CRAM-MD5
+250 STARTTLS
+
+starttls: 220 2.0.0 Start TLS
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 AUTH PLAIN LOGIN CRAM-MD5
+
+from: 250 2.1.0 Ok
+
+to: 501 5.1.7 Bad sender address syntax
+
+The following SMTP error was encountered: 501 5.1.7 Bad sender address syntax
+
+quit: 221 2.0.0 Bye
+
+Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+220 smtp.mailtrap.io ESMTP ready
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-AUTH PLAIN LOGIN CRAM-MD5
+250 STARTTLS
+
+starttls: 220 2.0.0 Start TLS
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 AUTH PLAIN LOGIN CRAM-MD5
+
+from: 250 2.1.0 Ok
+
+to: 501 5.1.7 Bad sender address syntax
+
+The following SMTP error was encountered: 501 5.1.7 Bad sender address syntax
+
+quit: 221 2.0.0 Bye
+
+INFO - 2023-06-07 02:11:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 02:11:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-07 02:12:01 --> [DEPRECATED] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): strpos(null, ',')
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 02:12:01 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): trim(null)
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(77): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-07 02:12:04 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-06-07 02:12:04 --> 220 smtp.mailtrap.io ESMTP ready
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-AUTH PLAIN LOGIN CRAM-MD5
+250 STARTTLS
+
+starttls: 220 2.0.0 Start TLS
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 AUTH PLAIN LOGIN CRAM-MD5
+
+from: 250 2.1.0 Ok
+
+to: 501 5.1.7 Bad sender address syntax
+
+The following SMTP error was encountered: 501 5.1.7 Bad sender address syntax
+
+quit: 221 2.0.0 Bye
+
+ERROR - 2023-06-07 02:12:07 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-06-07 02:12:07 --> 220 smtp.mailtrap.io ESMTP ready
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-AUTH PLAIN LOGIN CRAM-MD5
+250 STARTTLS
+
+starttls: 220 2.0.0 Start TLS
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 AUTH PLAIN LOGIN CRAM-MD5
+
+from: 250 2.1.0 Ok
+
+to: 501 5.1.7 Bad sender address syntax
+
+The following SMTP error was encountered: 501 5.1.7 Bad sender address syntax
+
+quit: 221 2.0.0 Bye
+
+Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+220 smtp.mailtrap.io ESMTP ready
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-AUTH PLAIN LOGIN CRAM-MD5
+250 STARTTLS
+
+starttls: 220 2.0.0 Start TLS
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 AUTH PLAIN LOGIN CRAM-MD5
+
+from: 250 2.1.0 Ok
+
+to: 501 5.1.7 Bad sender address syntax
+
+The following SMTP error was encountered: 501 5.1.7 Bad sender address syntax
+
+quit: 221 2.0.0 Bye
+
+INFO - 2023-06-07 02:12:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-07 02:13:16 --> syntax error, unexpected identifier "view", expecting ":"
+in APPPATH\Controllers\consultaController.php on line 80.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\consultaController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\consultaController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\consultaController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\consultaController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-07 02:13:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-07 02:13:32 --> Invalid file: "'mail_detail.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('\'mail_detail.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('\'mail_detail.php', [], true)
+ 3 APPPATH\Controllers\consultaController.php(79): view('\'mail_detail.php', [])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 02:13:56 --> Invalid file: "'mail_detail.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('\'mail_detail.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('\'mail_detail.php', [], true)
+ 3 APPPATH\Controllers\consultaController.php(79): view('\'mail_detail.php', [])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-07 02:13:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-07 02:14:05 --> Invalid file: "'mail_detail.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('\'mail_detail.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('\'mail_detail.php', [], true)
+ 3 APPPATH\Controllers\consultaController.php(79): view('\'mail_detail.php', [])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-07 02:14:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 02:15:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-07 02:50:10 --> syntax error, unexpected variable "$data", expecting ")"
+in APPPATH\Controllers\consultaController.php on line 84.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\consultaController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\consultaController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\consultaController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\consultaController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 02:50:34 --> Too few arguments to function App\Controllers\consultaController::respuestas(), 0 passed in C:\xampp\htdocs\Maciel_lautaro\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\consultaController.php on line 23.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuestas()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-07 02:51:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 02:52:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 02:52:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 02:52:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 02:52:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 02:53:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 02:53:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 02:54:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 02:55:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 02:58:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 02:58:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 02:58:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 02:59:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 03:01:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 03:02:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 03:04:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 03:05:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 03:05:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 03:09:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 03:09:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 03:10:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 03:14:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 03:14:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 03:14:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 03:14:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 03:16:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 13:41:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 13:41:50 --> Cart Class Initialized
+INFO - 2023-06-07 13:41:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-07 13:41:54 --> syntax error, unexpected token "endif"
+in APPPATH\Views\backend\consultas.php on line 43.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/consultas', [], true)
+ 3 APPPATH\Controllers\consultaController.php(19): view('backend/consultas', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->consultas()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-07 13:42:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-07 13:42:11 --> Undefined array key "Asunto"
+in APPPATH\Views\backend\consultas.php on line 36.
+ 1 APPPATH\Views\backend\consultas.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Asunto"', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\consultas.php', 36)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\consultas.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/consultas', [], true)
+ 5 APPPATH\Controllers\consultaController.php(19): view('backend/consultas', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->consultas()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-07 13:42:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-07 13:42:21 --> Undefined array key "fecha de consulta"
+in APPPATH\Views\backend\consultas.php on line 38.
+ 1 APPPATH\Views\backend\consultas.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "fecha de consulta"', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\consultas.php', 38)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\consultas.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/consultas', [], true)
+ 5 APPPATH\Controllers\consultaController.php(19): view('backend/consultas', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->consultas()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-07 13:42:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 13:44:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 13:45:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 13:46:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 13:47:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-07 13:47:02 --> Undefined array key "Asunto"
+in APPPATH\Views\backend\respuesta.php on line 17.
+ 1 APPPATH\Views\backend\respuesta.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Asunto"', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\respuesta.php', 17)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\respuesta.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/respuesta', [], true)
+ 5 APPPATH\Controllers\consultaController.php(30): view('backend/respuesta', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuestas('1')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-07 13:47:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 14:49:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-06-07 14:50:20 --> [DEPRECATED] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): strpos(null, ',')
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(83): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 14:50:20 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): trim(null)
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(83): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 14:50:20 --> [DEPRECATED] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH\Email\Email.php on line 1465.
+ 1 SYSTEMPATH\Email\Email.php(1465): str_replace([...], '', null)
+ 2 SYSTEMPATH\Email\Email.php(628): CodeIgniter\Email\Email->prepQEncoding(null)
+ 3 APPPATH\Controllers\consultaController.php(84): CodeIgniter\Email\Email->setSubject(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 14:50:20 --> Undefined variable $descripcion
+in APPPATH\Views\mail_detail.php on line 22.
+ 1 APPPATH\Views\mail_detail.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $descripcion', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\mail_detail.php', 22)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\mail_detail.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('mail_detail.php', [], true)
+ 5 APPPATH\Controllers\consultaController.php(85): view('mail_detail.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 14:50:51 --> [DEPRECATED] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): strpos(null, ',')
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(83): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 14:50:51 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): trim(null)
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(83): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 14:50:51 --> [DEPRECATED] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH\Email\Email.php on line 1465.
+ 1 SYSTEMPATH\Email\Email.php(1465): str_replace([...], '', null)
+ 2 SYSTEMPATH\Email\Email.php(628): CodeIgniter\Email\Email->prepQEncoding(null)
+ 3 APPPATH\Controllers\consultaController.php(84): CodeIgniter\Email\Email->setSubject(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-07 14:50:51 --> Undefined variable $repuesta
+in APPPATH\Views\mail_detail.php on line 25.
+ 1 APPPATH\Views\mail_detail.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $repuesta', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\mail_detail.php', 25)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\mail_detail.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('mail_detail.php', [], true)
+ 5 APPPATH\Controllers\consultaController.php(85): view('mail_detail.php', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 14:51:03 --> [DEPRECATED] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): strpos(null, ',')
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(83): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 14:51:03 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in SYSTEMPATH\Email\Email.php on line 737.
+ 1 SYSTEMPATH\Email\Email.php(737): trim(null)
+ 2 SYSTEMPATH\Email\Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH\Controllers\consultaController.php(83): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-06-07 14:51:03 --> [DEPRECATED] str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in SYSTEMPATH\Email\Email.php on line 1465.
+ 1 SYSTEMPATH\Email\Email.php(1465): str_replace([...], '', null)
+ 2 SYSTEMPATH\Email\Email.php(628): CodeIgniter\Email\Email->prepQEncoding(null)
+ 3 APPPATH\Controllers\consultaController.php(84): CodeIgniter\Email\Email->setSubject(null)
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\consultaController->respuesta()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\consultaController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-06-07 14:51:06 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-06-07 14:51:06 --> 220 smtp.mailtrap.io ESMTP ready
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-AUTH PLAIN LOGIN CRAM-MD5
+250 STARTTLS
+
+starttls: 220 2.0.0 Start TLS
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 AUTH PLAIN LOGIN CRAM-MD5
+
+from: 250 2.1.0 Ok
+
+to: 501 5.1.7 Bad sender address syntax
+
+The following SMTP error was encountered: 501 5.1.7 Bad sender address syntax
+
+quit: 221 2.0.0 Bye
+
+ERROR - 2023-06-07 14:51:09 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-06-07 14:51:09 --> 220 smtp.mailtrap.io ESMTP ready
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-AUTH PLAIN LOGIN CRAM-MD5
+250 STARTTLS
+
+starttls: 220 2.0.0 Start TLS
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 AUTH PLAIN LOGIN CRAM-MD5
+
+from: 250 2.1.0 Ok
+
+to: 501 5.1.7 Bad sender address syntax
+
+The following SMTP error was encountered: 501 5.1.7 Bad sender address syntax
+
+quit: 221 2.0.0 Bye
+
+Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+220 smtp.mailtrap.io ESMTP ready
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-AUTH PLAIN LOGIN CRAM-MD5
+250 STARTTLS
+
+starttls: 220 2.0.0 Start TLS
+
+hello: 250-smtp.mailtrap.io
+250-SIZE 5242880
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250 AUTH PLAIN LOGIN CRAM-MD5
+
+from: 250 2.1.0 Ok
+
+to: 501 5.1.7 Bad sender address syntax
+
+The following SMTP error was encountered: 501 5.1.7 Bad sender address syntax
+
+quit: 221 2.0.0 Bye
+
+INFO - 2023-06-07 14:51:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 14:54:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 14:54:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 14:56:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 14:56:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 14:56:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 14:57:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-07 14:57:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

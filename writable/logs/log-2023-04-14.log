@@ -1,0 +1,9 @@
+CRITICAL - 2023-04-14 13:53:16 --> Cannot redeclare App\Controllers\Home::terminos_y_usos()
+in APPPATH/Controllers/Home.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-04-14 13:53:19 --> Cannot redeclare App\Controllers\Home::terminos_y_usos()
+in APPPATH/Controllers/Home.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-04-14 13:53:20 --> Cannot redeclare App\Controllers\Home::terminos_y_usos()
+in APPPATH/Controllers/Home.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()

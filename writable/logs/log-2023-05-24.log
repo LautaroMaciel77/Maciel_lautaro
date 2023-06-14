@@ -1,0 +1,479 @@
+INFO - 2023-05-24 00:00:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-24 00:00:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\UserController::$userModel is deprecated in APPPATH\Controllers\UserController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->changeBaja('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 00:00:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-24 00:00:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\UserController::$userModel is deprecated in APPPATH\Controllers\UserController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->changeBaja('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 00:00:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 00:01:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 00:01:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-24 00:01:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\UserController::$userModel is deprecated in APPPATH\Controllers\UserController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->changeBaja('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 00:01:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 01:18:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 01:21:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 01:21:20 --> Undefined property: App\Controllers\UserController::$UserModel
+in APPPATH\Controllers\UserController.php on line 81.
+ 1 APPPATH\Controllers\UserController.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\UserController::$UserModel', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\UserController.php', 81)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->buscar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 01:21:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 01:21:54 --> Undefined property: App\Controllers\UserController::$UserModel
+in APPPATH\Controllers\UserController.php on line 81.
+ 1 APPPATH\Controllers\UserController.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\UserController::$UserModel', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\UserController.php', 81)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->buscar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 01:25:04 --> syntax error, unexpected identifier "la"
+in APPPATH\Controllers\UserController.php on line 83.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\UserController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\UserController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\UserController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\UserController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 01:25:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 01:25:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 01:25:23 --> Invalid file: "backend/usuarios.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/usuarios.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/usuarios', [], true)
+ 3 APPPATH\Controllers\UserController.php(89): view('backend/usuarios', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->buscar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 01:25:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 01:25:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 01:25:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 01:25:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 01:25:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 01:59:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 01:59:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:00:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:00:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:00:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:00:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:01:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:01:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:03:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:03:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:04:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:04:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:05:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:05:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:05:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:05:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:07:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:07:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:07:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:08:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:14:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:14:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:14:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:14:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:14:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:14:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:14:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:15:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:16:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:16:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:16:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:16:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:16:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:16:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:16:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:16:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:25:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 02:25:56 --> Invalid file: "backend/usuarios.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/usuarios.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/usuarios', [], true)
+ 3 APPPATH\Controllers\UserController.php(26): view('backend/usuarios', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 02:26:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:26:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:26:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:26:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:27:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:27:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:27:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:27:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:27:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:28:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 02:28:02 --> Call to undefined function set_value()
+in APPPATH\Views\front\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/signup', [], true)
+ 4 APPPATH\Controllers\Home.php(38): view('front/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registro()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 02:29:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:29:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:29:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:29:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 02:29:15 --> Call to undefined function set_value()
+in APPPATH\Views\front\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/signup', [], true)
+ 4 APPPATH\Controllers\Home.php(38): view('front/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registro()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 02:30:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 02:30:11 --> Call to undefined function set_value()
+in APPPATH\Views\front\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/signup', [], true)
+ 4 APPPATH\Controllers\Home.php(38): view('front/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registro()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 02:30:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 02:30:11 --> Call to undefined function set_value()
+in APPPATH\Views\front\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/signup', [], true)
+ 4 APPPATH\Controllers\Home.php(38): view('front/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registro()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 02:30:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 02:30:12 --> Call to undefined function set_value()
+in APPPATH\Views\front\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/signup', [], true)
+ 4 APPPATH\Controllers\Home.php(38): view('front/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registro()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 02:30:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 02:30:12 --> Call to undefined function set_value()
+in APPPATH\Views\front\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/signup', [], true)
+ 4 APPPATH\Controllers\Home.php(38): view('front/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registro()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 02:30:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 02:30:12 --> Call to undefined function set_value()
+in APPPATH\Views\front\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/signup', [], true)
+ 4 APPPATH\Controllers\Home.php(38): view('front/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registro()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 02:30:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 02:30:12 --> Call to undefined function set_value()
+in APPPATH\Views\front\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/signup', [], true)
+ 4 APPPATH\Controllers\Home.php(38): view('front/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registro()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 02:30:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 02:30:12 --> Call to undefined function set_value()
+in APPPATH\Views\front\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/signup', [], true)
+ 4 APPPATH\Controllers\Home.php(38): view('front/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registro()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 02:30:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 02:30:13 --> Call to undefined function set_value()
+in APPPATH\Views\front\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/signup', [], true)
+ 4 APPPATH\Controllers\Home.php(38): view('front/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registro()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 02:30:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 02:30:13 --> Call to undefined function set_value()
+in APPPATH\Views\front\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/signup', [], true)
+ 4 APPPATH\Controllers\Home.php(38): view('front/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registro()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 02:30:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 02:30:13 --> Call to undefined function set_value()
+in APPPATH\Views\front\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/signup', [], true)
+ 4 APPPATH\Controllers\Home.php(38): view('front/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registro()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 02:30:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 02:30:13 --> Call to undefined function set_value()
+in APPPATH\Views\front\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/signup', [], true)
+ 4 APPPATH\Controllers\Home.php(38): view('front/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registro()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 02:30:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 02:30:14 --> Call to undefined function set_value()
+in APPPATH\Views\front\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/signup', [], true)
+ 4 APPPATH\Controllers\Home.php(38): view('front/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registro()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 02:30:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 02:30:14 --> Call to undefined function set_value()
+in APPPATH\Views\front\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/signup', [], true)
+ 4 APPPATH\Controllers\Home.php(38): view('front/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registro()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 02:30:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 02:30:14 --> Call to undefined function set_value()
+in APPPATH\Views\front\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/signup', [], true)
+ 4 APPPATH\Controllers\Home.php(38): view('front/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registro()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 02:30:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 02:30:14 --> Call to undefined function set_value()
+in APPPATH\Views\front\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/signup', [], true)
+ 4 APPPATH\Controllers\Home.php(38): view('front/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registro()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 02:30:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 02:30:15 --> Call to undefined function set_value()
+in APPPATH\Views\front\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/signup', [], true)
+ 4 APPPATH\Controllers\Home.php(38): view('front/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registro()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 02:30:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:31:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:31:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:31:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 02:31:59 --> Call to undefined function set_value()
+in APPPATH\Views\front\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/signup', [], true)
+ 4 APPPATH\Controllers\Home.php(38): view('front/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registro()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 02:32:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:32:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 02:32:04 --> Call to undefined function set_value()
+in APPPATH\Views\front\signup.php on line 21.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/signup', [], true)
+ 4 APPPATH\Controllers\Home.php(38): view('front/signup')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->registro()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 02:32:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:33:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:33:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:34:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:34:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:36:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:36:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:36:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:38:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:38:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:38:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:38:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:38:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:38:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:38:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:38:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:38:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:38:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:38:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:38:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:38:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:38:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:38:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:38:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 02:44:58 --> Unclosed '{' on line 10
+in APPPATH\Controllers\UserController.php on line 96.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\UserController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\UserController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\UserController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\UserController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 02:45:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:51:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:51:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:51:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:51:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:51:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:54:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:54:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:54:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:54:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:54:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:56:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 02:56:23 --> Undefined variable $userModel
+in APPPATH\Controllers\UserController.php on line 90.
+ 1 APPPATH\Controllers\UserController.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userModel', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\UserController.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->buscar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 02:57:45 --> Undefined array key "search"
+in APPPATH\Controllers\UserController.php on line 15.
+ 1 APPPATH\Controllers\UserController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "search"', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\UserController.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 02:57:56 --> Undefined array key ""
+in APPPATH\Controllers\UserController.php on line 15.
+ 1 APPPATH\Controllers\UserController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key ""', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\UserController.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 02:57:57 --> Undefined array key ""
+in APPPATH\Controllers\UserController.php on line 15.
+ 1 APPPATH\Controllers\UserController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key ""', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\UserController.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 02:58:02 --> Undefined array key " "
+in APPPATH\Controllers\UserController.php on line 15.
+ 1 APPPATH\Controllers\UserController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key " "', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\UserController.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 02:58:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:58:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:58:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 02:58:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 02:58:37 --> view(): Argument #2 ($data) must be of type array, string given, called in C:\xampp\htdocs\Maciel_lautaro\app\Controllers\UserController.php on line 94
+in SYSTEMPATH\Common.php on line 1172.
+ 1 APPPATH\Controllers\UserController.php(94): view('backend/usarios', 'lautaro', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->buscar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 02:58:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 02:59:36 --> syntax error, unexpected token "public", expecting end of file
+in APPPATH\Controllers\UserController.php on line 98.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\UserController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\UserController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\UserController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\UserController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 02:59:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-24 02:59:51 --> Invalid file: "backend/usuarios.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/usuarios.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/usuarios', [], true)
+ 3 APPPATH\Controllers\UserController.php(94): view('backend/usuarios', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->buscar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-24 03:00:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 03:00:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 03:00:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 03:00:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 03:00:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 03:00:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 03:00:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 03:00:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 03:00:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 03:00:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 03:00:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 03:06:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 03:06:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 03:07:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 03:07:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 03:07:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 03:07:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 03:07:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 03:07:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 03:08:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 03:08:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 03:08:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-24 03:08:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

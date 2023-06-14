@@ -1,0 +1,9 @@
+CRITICAL - 2023-04-23 23:29:43 --> syntax error, unexpected token "<"
+in APPPATH\Views\front\footer.php on line 27.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('front/footer', [], true)
+ 3 APPPATH\Controllers\Home.php(23): view('front/footer')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->terminos()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()

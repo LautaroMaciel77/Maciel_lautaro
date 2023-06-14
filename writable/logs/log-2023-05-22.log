@@ -1,0 +1,173 @@
+INFO - 2023-05-22 21:26:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 21:26:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 21:26:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 21:30:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 21:32:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 21:32:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 21:32:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 21:32:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 21:32:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 21:32:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 21:32:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 21:32:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 21:32:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 21:32:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 21:32:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 21:35:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 21:35:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 21:36:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-22 21:36:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\UserController::$userModel is deprecated in APPPATH\Controllers\UserController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->change_id('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-22 21:36:35 --> Undefined array key "perfil_id"
+in APPPATH\Controllers\UserController.php on line 42.
+ 1 APPPATH\Controllers\UserController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "perfil_id"', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\UserController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->change_id('1')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-22 21:40:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-22 21:40:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\UserController::$userModel is deprecated in APPPATH\Controllers\UserController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->change_id('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-22 21:40:19 --> Undefined array key "perfil_id"
+in APPPATH\Controllers\UserController.php on line 42.
+ 1 APPPATH\Controllers\UserController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "perfil_id"', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\UserController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->change_id('1')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-22 21:51:08 --> syntax error, unexpected token "if", expecting identifier or variable or "{" or "$"
+in APPPATH\Controllers\UserController.php on line 41.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\UserController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\UserController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\UserController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\UserController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-22 21:51:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 21:52:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-22 21:52:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\UserController::$userModel is deprecated in APPPATH\Controllers\UserController.php on line 36.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->change_id('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-22 21:52:11 --> Undefined array key "perfil_id"
+in APPPATH\Controllers\UserController.php on line 42.
+ 1 APPPATH\Controllers\UserController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "perfil_id"', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\UserController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->change_id('1')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-05-22 21:54:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\UserController::$userModel is deprecated in APPPATH\Controllers\UserController.php on line 36.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->change_id('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-22 21:54:10 --> Undefined array key "baja"
+in APPPATH\Controllers\UserController.php on line 42.
+ 1 APPPATH\Controllers\UserController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "baja"', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\UserController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->change_id('1')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-22 21:56:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-22 21:56:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\UserController::$userModel is deprecated in APPPATH\Controllers\UserController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->changeBaja('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-22 21:56:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-22 21:59:21 --> Cannot redeclare App\Models\UserModel::$table
+in APPPATH\Models\UserModel.php on line 7.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-05-22 21:59:55 --> syntax error, unexpected token "protected", expecting "," or ";"
+in APPPATH\Models\UserModel.php on line 7.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Models\\UserModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\UserModel')
+ 3 APPPATH\Controllers\UserController.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\UserModel')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-22 22:00:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 22:00:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-22 22:00:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\UserController::$userModel is deprecated in APPPATH\Controllers\UserController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->changeBaja('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-22 22:00:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 22:57:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 22:57:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 22:57:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 22:57:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 22:58:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 22:58:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 22:58:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 22:58:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 22:58:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 22:59:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-22 22:59:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\UserController::$userModel is deprecated in APPPATH\Controllers\UserController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->change_id('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-22 22:59:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-22 22:59:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\UserController::$userModel is deprecated in APPPATH\Controllers\UserController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->change_id('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-22 22:59:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-22 23:00:56 --> syntax error, unexpected token "{", expecting "("
+in APPPATH\Controllers\UserController.php on line 43.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\UserController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\UserController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\UserController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\UserController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-22 23:01:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-22 23:01:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\UserController::$userModel is deprecated in APPPATH\Controllers\UserController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->change_id('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-22 23:01:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-22 23:01:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\UserController::$userModel is deprecated in APPPATH\Controllers\UserController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->change_id('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-22 23:01:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 23:02:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-22 23:03:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\UserController::$userModel is deprecated in APPPATH\Controllers\UserController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->change_id('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-22 23:03:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-22 23:03:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\UserController::$userModel is deprecated in APPPATH\Controllers\UserController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->change_id('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-22 23:03:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 23:18:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 23:18:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-05-22 23:18:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\UserController::$userModel is deprecated in APPPATH\Controllers\UserController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UserController->change_id('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-22 23:18:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 23:18:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 23:28:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-22 23:30:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

@@ -1,0 +1,754 @@
+CRITICAL - 2023-06-14 00:17:04 --> syntax error, unexpected variable "$routes"
+in APPPATH\Config\Routes.php on line 48.
+ 1 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:17:27 --> syntax error, unexpected single-quoted string "user/editar_usuario/(:num)", expecting "]"
+in APPPATH\Config\Filters.php on line 58.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(155): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'Filters')
+ 6 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 7 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 8 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 9 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+10 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+11 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+12 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+13 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:17:48 --> syntax error, unexpected single-quoted string "user/editar_usuario/(:num)", expecting "]"
+in APPPATH\Config\Filters.php on line 58.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(155): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'Filters')
+ 6 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 7 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 8 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 9 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+10 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+11 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+12 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+13 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:17:49 --> syntax error, unexpected single-quoted string "user/editar_usuario/(:num)", expecting "]"
+in APPPATH\Config\Filters.php on line 58.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(155): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'Filters')
+ 6 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 7 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 8 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 9 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+10 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+11 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+12 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+13 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:17:50 --> syntax error, unexpected single-quoted string "user/editar_usuario/(:num)", expecting "]"
+in APPPATH\Config\Filters.php on line 58.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(155): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'Filters')
+ 6 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 7 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 8 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 9 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+10 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+11 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+12 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+13 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:17:50 --> syntax error, unexpected single-quoted string "user/editar_usuario/(:num)", expecting "]"
+in APPPATH\Config\Filters.php on line 58.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(155): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'Filters')
+ 6 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 7 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 8 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 9 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+10 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+11 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+12 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+13 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:17:50 --> syntax error, unexpected single-quoted string "user/editar_usuario/(:num)", expecting "]"
+in APPPATH\Config\Filters.php on line 58.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(155): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'Filters')
+ 6 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 7 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 8 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 9 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+10 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+11 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+12 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+13 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:17:50 --> syntax error, unexpected single-quoted string "user/editar_usuario/(:num)", expecting "]"
+in APPPATH\Config\Filters.php on line 58.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(155): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'Filters')
+ 6 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 7 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 8 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 9 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+10 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+11 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+12 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+13 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:17:51 --> syntax error, unexpected single-quoted string "user/editar_usuario/(:num)", expecting "]"
+in APPPATH\Config\Filters.php on line 58.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(155): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'Filters')
+ 6 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 7 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 8 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 9 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+10 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+11 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+12 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+13 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:22:09 --> syntax error, unexpected single-quoted string "user/editar_usuario/(:num)", expecting "]"
+in APPPATH\Config\Filters.php on line 48.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(155): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'Filters')
+ 6 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 7 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 8 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 9 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+10 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+11 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+12 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+13 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:22:10 --> syntax error, unexpected single-quoted string "user/editar_usuario/(:num)", expecting "]"
+in APPPATH\Config\Filters.php on line 48.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(155): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'Filters')
+ 6 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 7 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 8 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 9 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+10 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+11 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+12 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+13 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:22:10 --> syntax error, unexpected single-quoted string "user/editar_usuario/(:num)", expecting "]"
+in APPPATH\Config\Filters.php on line 48.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(155): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'Filters')
+ 6 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 7 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 8 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 9 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+10 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+11 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+12 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+13 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:22:10 --> syntax error, unexpected single-quoted string "user/editar_usuario/(:num)", expecting "]"
+in APPPATH\Config\Filters.php on line 48.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(155): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'Filters')
+ 6 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 7 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 8 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 9 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+10 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+11 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+12 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+13 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:22:11 --> syntax error, unexpected single-quoted string "user/editar_usuario/(:num)", expecting "]"
+in APPPATH\Config\Filters.php on line 48.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(155): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'Filters')
+ 6 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 7 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 8 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 9 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+10 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+11 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+12 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+13 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:22:11 --> syntax error, unexpected single-quoted string "user/editar_usuario/(:num)", expecting "]"
+in APPPATH\Config\Filters.php on line 48.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(155): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'Filters')
+ 6 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 7 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 8 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 9 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+10 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+11 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+12 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+13 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:22:11 --> syntax error, unexpected single-quoted string "user/editar_usuario/(:num)", expecting "]"
+in APPPATH\Config\Filters.php on line 48.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(155): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'Filters')
+ 6 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 7 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 8 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 9 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+10 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+11 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+12 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+13 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:22:11 --> syntax error, unexpected single-quoted string "user/editar_usuario/(:num)", expecting "]"
+in APPPATH\Config\Filters.php on line 48.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(155): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'Filters')
+ 6 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 7 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 8 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 9 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+10 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+11 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+12 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+13 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:22:11 --> syntax error, unexpected single-quoted string "user/editar_usuario/(:num)", expecting "]"
+in APPPATH\Config\Filters.php on line 48.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(155): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'Filters')
+ 6 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 7 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 8 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 9 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+10 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+11 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+12 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+13 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:22:11 --> syntax error, unexpected single-quoted string "user/editar_usuario/(:num)", expecting "]"
+in APPPATH\Config\Filters.php on line 48.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(155): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'Filters')
+ 6 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 7 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 8 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 9 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+10 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+11 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+12 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+13 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:22:12 --> syntax error, unexpected single-quoted string "user/editar_usuario/(:num)", expecting "]"
+in APPPATH\Config\Filters.php on line 48.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(155): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'Filters')
+ 6 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 7 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 8 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 9 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+10 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+11 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+12 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+13 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:22:12 --> syntax error, unexpected single-quoted string "user/editar_usuario/(:num)", expecting "]"
+in APPPATH\Config\Filters.php on line 48.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(155): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'Filters')
+ 6 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 7 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 8 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 9 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+10 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+11 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+12 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+13 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:22:26 --> syntax error, unexpected token "public", expecting end of file
+in APPPATH\Config\Filters.php on line 90.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(155): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'Filters')
+ 6 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 7 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 8 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 9 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+10 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+11 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+12 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+13 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:22:27 --> syntax error, unexpected token "public", expecting end of file
+in APPPATH\Config\Filters.php on line 90.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(155): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(125): CodeIgniter\Config\Factories::locateClass([...], 'Filters')
+ 6 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 7 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 8 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 9 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+10 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+11 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+12 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+13 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:22:39 --> Cannot redeclare Config\Filters::$filters
+in APPPATH\Config\Filters.php on line 123.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-06-14 00:22:40 --> Cannot redeclare Config\Filters::$filters
+in APPPATH\Config\Filters.php on line 123.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2023-06-14 00:22:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:22:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:22:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-14 00:23:06 --> Class "Config\AuthFilter" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('ventas', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 00:23:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:23:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:23:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:23:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:23:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:23:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-14 00:23:32 --> Class "Config\AuthFilter" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('carrito', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 00:23:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:23:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:23:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:23:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:23:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-14 00:23:42 --> Class "Config\AuthFilter" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('carrito_agrega', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 00:23:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:26:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:26:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-14 00:26:59 --> Class "Config\AuthFilter" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('carrito', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 00:27:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-14 00:30:47 --> Class "Config\AuthFilter" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('carrito', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:30:48 --> Class "Config\AuthFilter" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('carrito', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:30:49 --> Class "Config\AuthFilter" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('carrito', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:32:15 --> Class "Config\App\FiltersAuthFilter" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('carrito', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:32:16 --> Class "Config\App\FiltersAuthFilter" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('carrito', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:32:16 --> Class "Config\App\FiltersAuthFilter" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('carrito', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:32:16 --> Class "Config\App\FiltersAuthFilter" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('carrito', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:32:16 --> Class "Config\App\FiltersAuthFilter" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('carrito', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:32:17 --> Class "Config\App\FiltersAuthFilter" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('carrito', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:32:17 --> Class "Config\App\FiltersAuthFilter" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('carrito', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:32:17 --> Class "Config\App\FiltersAuthFilter" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('carrito', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:34:12 --> Undefined constant "Config\app\Filters\AuthFilter"
+in SYSTEMPATH\Config\Factories.php on line 129.
+ 1 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 2 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 3 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 4 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+ 5 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+ 6 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+ 7 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:34:13 --> Undefined constant "Config\app\Filters\AuthFilter"
+in SYSTEMPATH\Config\Factories.php on line 129.
+ 1 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 2 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 3 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 4 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+ 5 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+ 6 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+ 7 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:34:13 --> Undefined constant "Config\app\Filters\AuthFilter"
+in SYSTEMPATH\Config\Factories.php on line 129.
+ 1 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 2 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 3 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 4 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+ 5 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+ 6 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+ 7 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:34:35 --> Undefined constant "Config\app\Filters\AuthFilter"
+in SYSTEMPATH\Config\Factories.php on line 129.
+ 1 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 2 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 3 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 4 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+ 5 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+ 6 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+ 7 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:34:36 --> Undefined constant "Config\app\Filters\AuthFilter"
+in SYSTEMPATH\Config\Factories.php on line 129.
+ 1 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 2 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 3 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 4 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+ 5 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+ 6 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+ 7 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:34:45 --> Undefined constant "Config\app\Filters\AuthFilter"
+in SYSTEMPATH\Config\Factories.php on line 129.
+ 1 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 2 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 3 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 4 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+ 5 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+ 6 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+ 7 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:34:47 --> Undefined constant "Config\app\Filters\AuthFilter"
+in SYSTEMPATH\Config\Factories.php on line 129.
+ 1 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 2 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 3 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 4 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+ 5 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+ 6 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+ 7 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:34:49 --> Undefined constant "Config\app\Filters\AuthFilter"
+in SYSTEMPATH\Config\Factories.php on line 129.
+ 1 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 2 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 3 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 4 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+ 5 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+ 6 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+ 7 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:34:49 --> Undefined constant "Config\app\Filters\AuthFilter"
+in SYSTEMPATH\Config\Factories.php on line 129.
+ 1 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 2 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 3 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 4 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+ 5 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+ 6 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+ 7 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:34:50 --> Undefined constant "Config\app\Filters\AuthFilter"
+in SYSTEMPATH\Config\Factories.php on line 129.
+ 1 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 2 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 3 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 4 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+ 5 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+ 6 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+ 7 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:34:50 --> Undefined constant "Config\app\Filters\AuthFilter"
+in SYSTEMPATH\Config\Factories.php on line 129.
+ 1 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 2 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 3 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 4 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+ 5 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+ 6 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+ 7 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:34:50 --> Undefined constant "Config\app\Filters\AuthFilter"
+in SYSTEMPATH\Config\Factories.php on line 129.
+ 1 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 2 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 3 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 4 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+ 5 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+ 6 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+ 7 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:34:50 --> Undefined constant "Config\app\Filters\AuthFilter"
+in SYSTEMPATH\Config\Factories.php on line 129.
+ 1 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 2 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 3 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 4 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+ 5 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+ 6 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+ 7 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:34:51 --> Undefined constant "Config\app\Filters\AuthFilter"
+in SYSTEMPATH\Config\Factories.php on line 129.
+ 1 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 2 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 3 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 4 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+ 5 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+ 6 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+ 7 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:34:51 --> Undefined constant "Config\app\Filters\AuthFilter"
+in SYSTEMPATH\Config\Factories.php on line 129.
+ 1 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 2 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 3 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 4 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+ 5 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+ 6 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+ 7 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:34:51 --> Undefined constant "Config\app\Filters\AuthFilter"
+in SYSTEMPATH\Config\Factories.php on line 129.
+ 1 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 2 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 3 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 4 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+ 5 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+ 6 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+ 7 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:34:51 --> Undefined constant "Config\app\Filters\AuthFilter"
+in SYSTEMPATH\Config\Factories.php on line 129.
+ 1 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 2 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 3 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 4 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+ 5 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+ 6 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+ 7 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-14 00:34:51 --> Undefined constant "Config\app\Filters\AuthFilter"
+in SYSTEMPATH\Config\Factories.php on line 129.
+ 1 SYSTEMPATH\Common.php(216): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 2 SYSTEMPATH\Config\Services.php(285): config('Filters')
+ 3 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters(null, false)
+ 4 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+ 5 SYSTEMPATH\Config\Services.php(282): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+ 6 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::filters()
+ 7 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 00:38:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:38:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:38:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:38:08 --> Cart Class Initialized
+INFO - 2023-06-14 00:38:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:38:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:38:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:38:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:38:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:38:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:39:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:39:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:39:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:40:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:40:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:40:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:40:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:41:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:41:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-14 00:41:06 --> Invalid file: "backend/User/signup.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/User/signup.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/User/signup', [], true)
+ 3 APPPATH\Controllers\SignupController.php(14): view('backend/User/signup', [])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SignupController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SignupController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 00:41:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:42:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:42:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:42:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:42:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:42:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:43:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:43:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:43:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:43:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:44:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:44:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-14 00:44:39 --> syntax error, unexpected token "return", expecting "function" or "const"
+in APPPATH\Filters\AuthFilter.php on line 21.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Filters\\AuthFilter.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Filters\\AuthFilter')
+ 3 SYSTEMPATH\Filters\Filters.php(166): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Filters\\AuthFilter')
+ 4 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('carrito_agrega', 'before')
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-14 00:44:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:44:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:45:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:45:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:45:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:45:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:45:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:45:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:45:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:45:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:45:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:45:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:47:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:47:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:47:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:47:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:47:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:47:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:47:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:47:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:47:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:47:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:47:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:47:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:48:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:48:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:48:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:48:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:48:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:48:26 --> Cart Class Initialized
+INFO - 2023-06-14 00:48:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:48:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:48:28 --> Cart Class Initialized
+INFO - 2023-06-14 00:48:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:48:32 --> Cart Class Initialized
+INFO - 2023-06-14 00:48:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:48:33 --> Cart Class Initialized
+INFO - 2023-06-14 00:48:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:48:36 --> Cart Class Initialized
+INFO - 2023-06-14 00:48:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:48:39 --> Cart Class Initialized
+INFO - 2023-06-14 00:48:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:48:45 --> Cart Class Initialized
+INFO - 2023-06-14 00:48:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 00:48:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 16:09:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 16:09:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 16:09:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 16:09:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 16:09:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-14 16:09:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

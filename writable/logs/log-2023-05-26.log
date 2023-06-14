@@ -1,0 +1,674 @@
+CRITICAL - 2023-05-26 17:00:34 --> Undefined variable $rooutes
+in APPPATH\Config\Routes.php on line 54.
+ 1 APPPATH\Config\Routes.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $rooutes', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Config\\Routes.php', 54)
+ 2 SYSTEMPATH\Router\RouteCollection.php(267): require('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Config\\Routes.php')
+ 3 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 4 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 17:00:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 17:01:04 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\ProductoController.php on line 17.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductoController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductoController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\ProductoController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-26 17:01:31 --> syntax error, unexpected token "=>", expecting "]"
+in APPPATH\Controllers\ProductoController.php on line 34.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductoController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductoController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\ProductoController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-26 17:01:32 --> syntax error, unexpected token "=>", expecting "]"
+in APPPATH\Controllers\ProductoController.php on line 34.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductoController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductoController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\ProductoController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-26 17:02:00 --> syntax error, unexpected token "=>", expecting "]"
+in APPPATH\Controllers\ProductoController.php on line 34.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductoController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductoController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\ProductoController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-26 17:02:00 --> syntax error, unexpected token "=>", expecting "]"
+in APPPATH\Controllers\ProductoController.php on line 34.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductoController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductoController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\ProductoController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-26 17:03:00 --> syntax error, unexpected token "=>", expecting "]"
+in APPPATH\Controllers\ProductoController.php on line 36.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductoController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductoController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\ProductoController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-26 17:03:01 --> syntax error, unexpected token "=>", expecting "]"
+in APPPATH\Controllers\ProductoController.php on line 36.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductoController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductoController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\ProductoController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-26 17:03:02 --> syntax error, unexpected token "=>", expecting "]"
+in APPPATH\Controllers\ProductoController.php on line 36.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductoController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductoController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\ProductoController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-26 17:03:33 --> syntax error, unexpected token "=>", expecting "]"
+in APPPATH\Controllers\ProductoController.php on line 36.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductoController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductoController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\ProductoController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-26 17:04:27 --> syntax error, unexpected token ","
+in APPPATH\Controllers\ProductoController.php on line 54.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductoController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductoController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\ProductoController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-26 17:04:28 --> syntax error, unexpected token ","
+in APPPATH\Controllers\ProductoController.php on line 54.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductoController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductoController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\ProductoController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-26 17:05:09 --> syntax error, unexpected token ","
+in APPPATH\Controllers\ProductoController.php on line 54.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductoController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductoController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\ProductoController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-26 17:05:10 --> syntax error, unexpected token ","
+in APPPATH\Controllers\ProductoController.php on line 54.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductoController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductoController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\ProductoController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-26 17:05:48 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH\Controllers\ProductoController.php on line 6.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2023-05-26 17:06:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 17:06:33 --> Invalid file: "back/alta_producto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/alta_producto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('back/alta_producto', [], true)
+ 3 APPPATH\Controllers\ProductoController.php(26): view('back/alta_producto', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->alta_producto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 17:06:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 17:06:33 --> Invalid file: "back/alta_producto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/alta_producto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('back/alta_producto', [], true)
+ 3 APPPATH\Controllers\ProductoController.php(26): view('back/alta_producto', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->alta_producto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 17:06:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 17:06:34 --> Invalid file: "back/alta_producto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/alta_producto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('back/alta_producto', [], true)
+ 3 APPPATH\Controllers\ProductoController.php(26): view('back/alta_producto', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->alta_producto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 17:06:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 17:06:34 --> Invalid file: "back/alta_producto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/alta_producto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('back/alta_producto', [], true)
+ 3 APPPATH\Controllers\ProductoController.php(26): view('back/alta_producto', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->alta_producto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 17:06:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 17:06:34 --> Invalid file: "back/alta_producto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/alta_producto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('back/alta_producto', [], true)
+ 3 APPPATH\Controllers\ProductoController.php(26): view('back/alta_producto', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->alta_producto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 17:06:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 17:06:36 --> Invalid file: "back/alta_producto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/alta_producto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('back/alta_producto', [], true)
+ 3 APPPATH\Controllers\ProductoController.php(26): view('back/alta_producto', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->alta_producto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 17:06:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 17:06:37 --> Invalid file: "back/alta_producto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/alta_producto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('back/alta_producto', [], true)
+ 3 APPPATH\Controllers\ProductoController.php(26): view('back/alta_producto', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->alta_producto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 17:06:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 17:06:52 --> Invalid file: "back/alta_producto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/alta_producto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('back/alta_producto', [], true)
+ 3 APPPATH\Controllers\ProductoController.php(26): view('back/alta_producto', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->alta_producto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 17:06:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 17:06:57 --> Invalid file: "back/alta_producto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/alta_producto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('back/alta_producto', [], true)
+ 3 APPPATH\Controllers\ProductoController.php(26): view('back/alta_producto', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->alta_producto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 17:07:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 17:07:20 --> Invalid file: "back/alta_producto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/alta_producto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('back/alta_producto', [], true)
+ 3 APPPATH\Controllers\ProductoController.php(26): view('back/alta_producto', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->alta_producto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 17:07:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 17:07:49 --> Invalid file: "back/productos.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/productos.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('back/productos', [], true)
+ 3 APPPATH\Controllers\ProductoController.php(26): view('back/productos', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->alta_producto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 17:07:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 17:07:50 --> Invalid file: "back/productos.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/productos.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('back/productos', [], true)
+ 3 APPPATH\Controllers\ProductoController.php(26): view('back/productos', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->alta_producto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 17:08:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 17:08:03 --> Invalid file: "back/productos.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/productos.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('back/productos', [], true)
+ 3 APPPATH\Controllers\ProductoController.php(26): view('back/productos', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->alta_producto()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 17:08:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 17:08:15 --> Call to undefined function set_value()
+in APPPATH\Views\backend\alta_producto.php on line 21.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/alta_producto', [], true)
+ 4 APPPATH\Controllers\ProductoController.php(26): view('backend/alta_producto', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->alta_producto()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 17:41:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 18:04:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 18:07:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 18:08:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 18:09:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 18:22:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 18:23:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 18:23:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 18:24:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 18:24:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 18:26:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 18:26:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 18:26:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 18:26:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 18:27:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 18:27:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 18:28:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 18:28:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 20:17:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 21:57:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 21:57:46 --> Class "App\Controllers\ProductoModel" not found
+in APPPATH\Controllers\ProductoController.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->store()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 21:58:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 21:58:14 --> Undefined variable $data
+in APPPATH\Controllers\ProductoController.php on line 44.
+ 1 APPPATH\Controllers\ProductoController.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php', 44)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->store()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 22:00:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 22:00:17 --> Undefined property: App\Controllers\ProductoController::$validation
+in APPPATH\Controllers\ProductoController.php on line 44.
+ 1 APPPATH\Controllers\ProductoController.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ProductoController::$validation', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php', 44)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->store()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 22:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:08:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 22:08:22 --> Invalid file: "back/alta_producto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/alta_producto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('back/alta_producto', [], true)
+ 3 APPPATH\Controllers\ProductoController.php(46): view('back/alta_producto', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->store()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 22:08:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:08:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 22:08:53 --> Invalid file: "back/alta_producto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/alta_producto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('back/alta_producto', [], true)
+ 3 APPPATH\Controllers\ProductoController.php(46): view('back/alta_producto', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->store()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 22:09:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:09:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:09:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 22:09:24 --> Invalid file: "back/alta_producto.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('back/alta_producto.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('back/alta_producto', [], true)
+ 3 APPPATH\Controllers\ProductoController.php(46): view('back/alta_producto', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->store()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 22:10:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:10:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:10:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:11:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:13:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:13:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:13:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 22:13:57 --> Undefined variable $validation
+in APPPATH\Views\backend\alta_producto.php on line 33.
+ 1 APPPATH\Views\backend\alta_producto.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $validation', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\alta_producto.php', 33)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\alta_producto.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/alta_producto', [], true)
+ 5 APPPATH\Controllers\ProductoController.php(26): view('backend/alta_producto', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->alta_producto()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 22:13:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 22:13:58 --> Undefined variable $validation
+in APPPATH\Views\backend\alta_producto.php on line 33.
+ 1 APPPATH\Views\backend\alta_producto.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $validation', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\alta_producto.php', 33)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\alta_producto.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/alta_producto', [], true)
+ 5 APPPATH\Controllers\ProductoController.php(26): view('backend/alta_producto', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->alta_producto()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 22:14:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:36:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:36:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:37:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:38:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:40:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:40:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:40:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:41:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:41:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:41:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:41:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:42:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:43:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:43:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:43:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:43:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:43:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:44:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 22:44:35 --> Undefined property: App\Controllers\ProductoController::$responde
+in APPPATH\Controllers\ProductoController.php on line 46.
+ 1 APPPATH\Controllers\ProductoController.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ProductoController::$responde', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php', 46)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->store()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 22:44:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:44:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:44:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 22:44:48 --> Undefined property: App\Controllers\ProductoController::$responde
+in APPPATH\Controllers\ProductoController.php on line 46.
+ 1 APPPATH\Controllers\ProductoController.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ProductoController::$responde', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php', 46)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->store()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 22:44:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 22:47:48 --> Undefined variable $nombre_pro
+in APPPATH\Controllers\ProductoController.php on line 42.
+ 1 APPPATH\Controllers\ProductoController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nombre_pro', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->store()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 22:49:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:49:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:49:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:49:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:50:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:50:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:50:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:52:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:52:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:52:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:56:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:56:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:56:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:58:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 22:59:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 23:00:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 23:00:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 23:00:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 23:02:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 23:02:47 --> Call to a member function isValid() on null
+in APPPATH\Controllers\ProductoController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->store()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 23:02:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 23:05:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 23:05:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 23:06:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 23:06:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 23:06:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 23:08:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 23:08:45 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`bd_maciel_lautaro`.`producto`, CONSTRAINT `producto_ibfk_1` FOREIGN KEY (`categoria_id`) REFERENCES `categoria` (`id`)) in C:\xampp\htdocs\Maciel_lautaro\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Maciel_lautaro\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `pr...', 0)
+#1 C:\xampp\htdocs\Maciel_lautaro\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 C:\xampp\htdocs\Maciel_lautaro\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 C:\xampp\htdocs\Maciel_lautaro\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 C:\xampp\htdocs\Maciel_lautaro\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\Maciel_lautaro\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\Maciel_lautaro\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\Maciel_lautaro\app\Controllers\ProductoController.php(69): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\Maciel_lautaro\system\CodeIgniter.php(934): App\Controllers\ProductoController->store()
+#9 C:\xampp\htdocs\Maciel_lautaro\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+#10 C:\xampp\htdocs\Maciel_lautaro\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\Maciel_lautaro\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-05-26 23:08:45 --> Cannot add or update a child row: a foreign key constraint fails (`bd_maciel_lautaro`.`producto`, CONSTRAINT `producto_ibfk_1` FOREIGN KEY (`categoria_id`) REFERENCES `categoria` (`id`))
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `producto` (`precio`, `precio_lista`, `stock`, `stock_min`) VALUES (\'12\', \'12\', \'12\', \'12\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `producto` (`precio`, `precio_lista`, `stock`, `stock_min`) VALUES (\'12\', \'12\', \'12\', \'12\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `producto` (`precio`, `precio_lista`, `stock`, `stock_min`) VALUES (\'12\', \'12\', \'12\', \'12\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `producto` (`precio`, `precio_lista`, `stock`, `stock_min`) VALUES (:precio:, :precio_lista:, :stock:, :stock_min:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\ProductoController.php(69): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->store()
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 23:09:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 23:10:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 23:11:07 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`bd_maciel_lautaro`.`producto`, CONSTRAINT `producto_ibfk_1` FOREIGN KEY (`categoria_id`) REFERENCES `categoria` (`id`)) in C:\xampp\htdocs\Maciel_lautaro\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Maciel_lautaro\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `pr...', 0)
+#1 C:\xampp\htdocs\Maciel_lautaro\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 C:\xampp\htdocs\Maciel_lautaro\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 C:\xampp\htdocs\Maciel_lautaro\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 C:\xampp\htdocs\Maciel_lautaro\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\Maciel_lautaro\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\Maciel_lautaro\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\Maciel_lautaro\app\Controllers\ProductoController.php(69): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\Maciel_lautaro\system\CodeIgniter.php(934): App\Controllers\ProductoController->store()
+#9 C:\xampp\htdocs\Maciel_lautaro\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+#10 C:\xampp\htdocs\Maciel_lautaro\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\Maciel_lautaro\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-05-26 23:11:07 --> Cannot add or update a child row: a foreign key constraint fails (`bd_maciel_lautaro`.`producto`, CONSTRAINT `producto_ibfk_1` FOREIGN KEY (`categoria_id`) REFERENCES `categoria` (`id`))
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `producto` (`precio`, `precio_lista`, `stock`, `stock_min`) VALUES (\'12\', \'12\', \'12\', \'12\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `producto` (`precio`, `precio_lista`, `stock`, `stock_min`) VALUES (\'12\', \'12\', \'12\', \'12\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `producto` (`precio`, `precio_lista`, `stock`, `stock_min`) VALUES (\'12\', \'12\', \'12\', \'12\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `producto` (`precio`, `precio_lista`, `stock`, `stock_min`) VALUES (:precio:, :precio_lista:, :stock:, :stock_min:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\ProductoController.php(69): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->store()
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-26 23:13:32 --> syntax error, unexpected single-quoted string "imagen", expecting "]"
+in APPPATH\Controllers\ProductoController.php on line 62.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductoController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductoController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\ProductoController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-26 23:13:34 --> syntax error, unexpected single-quoted string "imagen", expecting "]"
+in APPPATH\Controllers\ProductoController.php on line 62.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductoController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductoController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\ProductoController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 23:13:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 23:14:03 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`bd_maciel_lautaro`.`producto`, CONSTRAINT `producto_ibfk_1` FOREIGN KEY (`categoria_id`) REFERENCES `categoria` (`id`)) in C:\xampp\htdocs\Maciel_lautaro\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Maciel_lautaro\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `pr...', 0)
+#1 C:\xampp\htdocs\Maciel_lautaro\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 C:\xampp\htdocs\Maciel_lautaro\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 C:\xampp\htdocs\Maciel_lautaro\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 C:\xampp\htdocs\Maciel_lautaro\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\Maciel_lautaro\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\Maciel_lautaro\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\Maciel_lautaro\app\Controllers\ProductoController.php(70): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\Maciel_lautaro\system\CodeIgniter.php(934): App\Controllers\ProductoController->store()
+#9 C:\xampp\htdocs\Maciel_lautaro\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+#10 C:\xampp\htdocs\Maciel_lautaro\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\Maciel_lautaro\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-05-26 23:14:03 --> Cannot add or update a child row: a foreign key constraint fails (`bd_maciel_lautaro`.`producto`, CONSTRAINT `producto_ibfk_1` FOREIGN KEY (`categoria_id`) REFERENCES `categoria` (`id`))
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `producto` (`descripcion`, `precio`, `precio_lista`, `stock`, `stock_min`) VALUES (\'1212\', \'12\', \'12\', \'12\', \'12\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `producto` (`descripcion`, `precio`, `precio_lista`, `stock`, `stock_min`) VALUES (\'1212\', \'12\', \'12\', \'12\', \'12\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `producto` (`descripcion`, `precio`, `precio_lista`, `stock`, `stock_min`) VALUES (\'1212\', \'12\', \'12\', \'12\', \'12\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `producto` (`descripcion`, `precio`, `precio_lista`, `stock`, `stock_min`) VALUES (:descripcion:, :precio:, :precio_lista:, :stock:, :stock_min:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\ProductoController.php(70): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->store()
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 23:17:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 23:18:11 --> mysqli_sql_exception: Table 'bd_maciel_lautaro.categorias' doesn't exist in C:\xampp\htdocs\Maciel_lautaro\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Maciel_lautaro\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\xampp\htdocs\Maciel_lautaro\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\xampp\htdocs\Maciel_lautaro\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\xampp\htdocs\Maciel_lautaro\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\Maciel_lautaro\system\Validation\StrictRules\Rules.php(147): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\Maciel_lautaro\system\Validation\Validation.php(312): CodeIgniter\Validation\StrictRules\Rules->is_not_unique('1', 'id', Array, NULL, 'categoria_id')
+#6 C:\xampp\htdocs\Maciel_lautaro\system\Validation\Validation.php(170): CodeIgniter\Validation\Validation->processRules('categoria_id', 'categoria_id', '1', Array, Array)
+#7 C:\xampp\htdocs\Maciel_lautaro\system\Controller.php(140): CodeIgniter\Validation\Validation->run()
+#8 C:\xampp\htdocs\Maciel_lautaro\app\Controllers\ProductoController.php(44): CodeIgniter\Controller->validate(Array)
+#9 C:\xampp\htdocs\Maciel_lautaro\system\CodeIgniter.php(934): App\Controllers\ProductoController->store()
+#10 C:\xampp\htdocs\Maciel_lautaro\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+#11 C:\xampp\htdocs\Maciel_lautaro\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\Maciel_lautaro\index.php(67): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2023-05-26 23:18:11 --> Table 'bd_maciel_lautaro.categorias' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT 1
+FROM `categorias`
+WHERE `id` = \'1\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1
+FROM `categorias`
+WHERE `id` = \'1\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1
+FROM `categorias`
+WHERE `id` = \'1\'
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT 1
+FROM `categorias`
+WHERE `id` = :id:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Validation\StrictRules\Rules.php(147): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\Validation\Validation.php(312): CodeIgniter\Validation\StrictRules\Rules->is_not_unique('1', 'id', [...], null, 'categoria_id')
+ 7 SYSTEMPATH\Validation\Validation.php(170): CodeIgniter\Validation\Validation->processRules('categoria_id', 'categoria_id', '1', [...], [...])
+ 8 SYSTEMPATH\Controller.php(140): CodeIgniter\Validation\Validation->run()
+ 9 APPPATH\Controllers\ProductoController.php(44): CodeIgniter\Controller->validate([...])
+10 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->store()
+11 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+12 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 23:19:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 23:19:28 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`bd_maciel_lautaro`.`producto`, CONSTRAINT `producto_ibfk_1` FOREIGN KEY (`categoria_id`) REFERENCES `categoria` (`id`)) in C:\xampp\htdocs\Maciel_lautaro\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Maciel_lautaro\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `pr...', 0)
+#1 C:\xampp\htdocs\Maciel_lautaro\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 C:\xampp\htdocs\Maciel_lautaro\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 C:\xampp\htdocs\Maciel_lautaro\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 C:\xampp\htdocs\Maciel_lautaro\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\Maciel_lautaro\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\Maciel_lautaro\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\Maciel_lautaro\app\Controllers\ProductoController.php(71): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\Maciel_lautaro\system\CodeIgniter.php(934): App\Controllers\ProductoController->store()
+#9 C:\xampp\htdocs\Maciel_lautaro\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+#10 C:\xampp\htdocs\Maciel_lautaro\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\Maciel_lautaro\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-05-26 23:19:28 --> Cannot add or update a child row: a foreign key constraint fails (`bd_maciel_lautaro`.`producto`, CONSTRAINT `producto_ibfk_1` FOREIGN KEY (`categoria_id`) REFERENCES `categoria` (`id`))
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `producto` (`descripcion`, `precio`, `precio_lista`, `stock`, `stock_min`) VALUES (\'1212\', \'12\', \'12\', \'12\', \'12\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `producto` (`descripcion`, `precio`, `precio_lista`, `stock`, `stock_min`) VALUES (\'1212\', \'12\', \'12\', \'12\', \'12\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `producto` (`descripcion`, `precio`, `precio_lista`, `stock`, `stock_min`) VALUES (\'1212\', \'12\', \'12\', \'12\', \'12\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `producto` (`descripcion`, `precio`, `precio_lista`, `stock`, `stock_min`) VALUES (:descripcion:, :precio:, :precio_lista:, :stock:, :stock_min:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\ProductoController.php(71): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->store()
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 23:31:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 23:31:27 --> Undefined property: App\Controllers\ProductoController::$responde
+in APPPATH\Controllers\ProductoController.php on line 72.
+ 1 APPPATH\Controllers\ProductoController.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ProductoController::$responde', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php', 72)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->store()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 23:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 23:36:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 23:36:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 23:39:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 23:39:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 23:48:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 23:48:52 --> Undefined variable $productos
+in APPPATH\Views\backend\productos.php on line 29.
+ 1 APPPATH\Views\backend\productos.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productos', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\productos.php', 29)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\productos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/productos', [], true)
+ 5 APPPATH\Controllers\ProductoController.php(16): view('backend/productos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 23:49:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 23:49:08 --> Undefined array key "eliminado"
+in APPPATH\Views\backend\productos.php on line 40.
+ 1 APPPATH\Views\backend\productos.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "eliminado"', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\productos.php', 40)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\productos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/productos', [], true)
+ 5 APPPATH\Controllers\ProductoController.php(16): view('backend/productos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ProductoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 23:50:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

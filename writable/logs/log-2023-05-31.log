@@ -1,0 +1,468 @@
+CRITICAL - 2023-05-31 15:54:15 --> syntax error, unexpected token "*", expecting end of file
+in APPPATH\Config\Routes.php on line 68.
+ 1 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 15:55:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 15:56:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 15:56:40 --> Undefined variable $product
+in APPPATH\Views\backend\catalogo.php on line 11.
+ 1 APPPATH\Views\backend\catalogo.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $product', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\catalogo.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\catalogo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 5 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 15:57:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 15:57:49 --> Undefined variable $producto
+in APPPATH\Views\backend\catalogo.php on line 11.
+ 1 APPPATH\Views\backend\catalogo.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\catalogo.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\catalogo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 5 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 15:57:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 15:57:50 --> Undefined variable $producto
+in APPPATH\Views\backend\catalogo.php on line 11.
+ 1 APPPATH\Views\backend\catalogo.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\catalogo.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\catalogo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 5 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 15:58:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 15:58:25 --> Undefined variable $producto
+in APPPATH\Views\backend\catalogo.php on line 11.
+ 1 APPPATH\Views\backend\catalogo.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\catalogo.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\catalogo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 5 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 15:58:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 15:58:26 --> Undefined variable $producto
+in APPPATH\Views\backend\catalogo.php on line 11.
+ 1 APPPATH\Views\backend\catalogo.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\catalogo.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\catalogo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 5 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 15:58:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 15:58:31 --> Undefined variable $producto
+in APPPATH\Views\backend\catalogo.php on line 11.
+ 1 APPPATH\Views\backend\catalogo.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\catalogo.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\catalogo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 5 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 15:59:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 15:59:10 --> Undefined array key "catalogo_id"
+in APPPATH\Views\backend\catalogo.php on line 12.
+ 1 APPPATH\Views\backend\catalogo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "catalogo_id"', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\catalogo.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\catalogo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 5 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 15:59:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 15:59:11 --> Undefined array key "catalogo_id"
+in APPPATH\Views\backend\catalogo.php on line 12.
+ 1 APPPATH\Views\backend\catalogo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "catalogo_id"', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\catalogo.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\catalogo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 5 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:00:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:00:16 --> Undefined array key "catalogo_id"
+in APPPATH\Views\backend\catalogo.php on line 12.
+ 1 APPPATH\Views\backend\catalogo.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "catalogo_id"', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\catalogo.php', 12)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\catalogo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 5 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:00:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:00:36 --> Undefined array key "image"
+in APPPATH\Views\backend\catalogo.php on line 33.
+ 1 APPPATH\Views\backend\catalogo.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "image"', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\catalogo.php', 33)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\catalogo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 5 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:00:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:00:49 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 12.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:37:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:37:57 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 12.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:37:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:37:58 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 12.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:37:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:37:59 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 12.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:37:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:37:59 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 12.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:37:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:37:59 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 12.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:37:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:37:59 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 12.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:38:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:38:00 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 12.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:38:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:38:00 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 12.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:38:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:38:00 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 12.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:38:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:38:01 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 12.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:38:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:38:01 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 12.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:38:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:38:01 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 12.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:38:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:38:02 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 12.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:44:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:44:46 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:44:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:44:47 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:44:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:44:47 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:44:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:44:47 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:44:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:44:48 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:44:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:44:48 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:44:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:44:48 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:44:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:44:49 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:51:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:51:55 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:51:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:51:56 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:51:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:51:58 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:52:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:52:06 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:52:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:52:06 --> Cannot access offset of type string on string
+in APPPATH\Views\backend\catalogo.php on line 13.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 4 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:53:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:53:20 --> Unmatched '}'
+in APPPATH\Views\backend\catalogo.php on line 89.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 3 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:53:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-31 16:58:00 --> syntax error, unexpected identifier "la"
+in APPPATH\Controllers\ProductoController.php on line 196.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductoController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductoController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\ProductoController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-31 16:58:27 --> syntax error, unexpected token "}"
+in APPPATH\Controllers\ProductoController.php on line 206.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductoController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductoController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\ProductoController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-31 16:58:28 --> syntax error, unexpected token "}"
+in APPPATH\Controllers\ProductoController.php on line 206.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\ProductoController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\ProductoController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\ProductoController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\ProductoController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-31 16:58:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 17:03:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 17:03:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 17:03:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 17:03:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-31 17:03:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

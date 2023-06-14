@@ -1,0 +1,188 @@
+CRITICAL - 2023-06-02 15:26:52 --> syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+in APPPATH\Config\Routes.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-02 15:27:05 --> syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+in APPPATH\Config\Routes.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-02 15:27:07 --> syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+in APPPATH\Config\Routes.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-02 15:27:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-02 15:27:31 --> syntax error, unexpected token "public", expecting end of file
+in APPPATH\Controllers\CartController.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\cartController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\cartController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\cartController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\cartController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-02 15:28:30 --> syntax error, unexpected token ";", expecting ")"
+in APPPATH\Controllers\CartController.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\cartController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\cartController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\cartController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\cartController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-02 15:28:31 --> syntax error, unexpected token ";", expecting ")"
+in APPPATH\Controllers\CartController.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\cartController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\cartController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\cartController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\cartController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-02 15:29:10 --> syntax error, unexpected token ";", expecting ")"
+in APPPATH\Controllers\CartController.php on line 20.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\cartController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\cartController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\cartController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\cartController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-02 15:30:31 --> syntax error, unexpected single-quoted string "price", expecting ")"
+in APPPATH\Controllers\CartController.php on line 25.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\cartController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\cartController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\cartController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\cartController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-02 15:30:32 --> syntax error, unexpected single-quoted string "price", expecting ")"
+in APPPATH\Controllers\CartController.php on line 25.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\cartController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\cartController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\cartController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\cartController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-02 15:31:08 --> syntax error, unexpected single-quoted string "price", expecting ")"
+in APPPATH\Controllers\CartController.php on line 25.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\cartController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\cartController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\cartController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\cartController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-02 15:31:10 --> syntax error, unexpected single-quoted string "price", expecting ")"
+in APPPATH\Controllers\CartController.php on line 25.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\cartController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\cartController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\cartController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\cartController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-02 15:31:28 --> Undefined variable $productModel
+in APPPATH\Controllers\CartController.php on line 11.
+ 1 APPPATH\Controllers\CartController.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productModel', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\CartController.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CartController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CartController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-02 15:31:29 --> Undefined variable $productModel
+in APPPATH\Controllers\CartController.php on line 11.
+ 1 APPPATH\Controllers\CartController.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productModel', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Controllers\\CartController.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CartController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CartController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-02 15:36:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-02 15:36:04 --> Call to a member function contents() on null
+in APPPATH\Controllers\CartController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CartController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CartController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-02 15:36:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-02 15:36:05 --> Call to a member function contents() on null
+in APPPATH\Controllers\CartController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CartController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CartController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-02 15:37:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-02 15:37:35 --> Cart Class Initialized
+CRITICAL - 2023-06-02 15:37:35 --> view(): Argument #2 ($data) must be of type array, CodeIgniterCart\Cart given, called in C:\xampp\htdocs\Maciel_lautaro\app\Controllers\CartController.php on line 16
+in SYSTEMPATH\Common.php on line 1172.
+ 1 APPPATH\Controllers\CartController.php(16): view('backend/carrito', Object(CodeIgniterCart\Cart))
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CartController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CartController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-02 15:41:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-02 15:41:04 --> Call to a member function contents() on null
+in APPPATH\Controllers\CartController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CartController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CartController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-02 15:41:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-02 15:41:11 --> Call to a member function contents() on null
+in APPPATH\Controllers\CartController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CartController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CartController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-02 15:41:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-02 15:41:16 --> Cart Class Initialized
+CRITICAL - 2023-06-02 15:41:16 --> view(): Argument #2 ($data) must be of type array, CodeIgniterCart\Cart given, called in C:\xampp\htdocs\Maciel_lautaro\app\Controllers\CartController.php on line 16
+in SYSTEMPATH\Common.php on line 1172.
+ 1 APPPATH\Controllers\CartController.php(16): view('backend/carrito', Object(CodeIgniterCart\Cart))
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CartController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CartController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-02 15:43:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-02 15:43:23 --> Cart Class Initialized
+CRITICAL - 2023-06-02 15:43:23 --> Invalid file: "backend/carrito.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('backend/carrito.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/carrito', [], true)
+ 3 APPPATH\Controllers\CartController.php(17): view('backend/carrito')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CartController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CartController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-02 15:43:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-02 15:43:38 --> Cart Class Initialized
+CRITICAL - 2023-06-02 15:43:38 --> syntax error, unexpected end of file, expecting "elseif" or "else" or "endif"
+in APPPATH\Views\backend\carrito_vista.php on line 30.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/carrito_vista', [], true)
+ 3 APPPATH\Controllers\CartController.php(17): view('backend/carrito_vista')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CartController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CartController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-02 15:44:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-02 15:44:32 --> Cart Class Initialized
+INFO - 2023-06-02 16:05:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-02 16:05:57 --> Undefined variable $productos
+in APPPATH\Views\backend\catalogo.php on line 7.
+ 1 APPPATH\Views\backend\catalogo.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productos', 'C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\catalogo.php', 7)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\Maciel_lautaro\\app\\Views\\backend\\catalogo.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('backend/catalogo', [], true)
+ 5 APPPATH\Controllers\sliderController.php(15): view('backend/catalogo', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\SliderController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SliderController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-06-02 16:06:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
