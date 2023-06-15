@@ -114,7 +114,8 @@
                                     <div class="card h-100" id="card-hover">
                                         <img src="<?= base_url() ?>/asset/uploads/<?= $productoItem['img'] ?>" alt="<?= $productoItem['nombre_pro']; ?>" class="card-img-top">
                                         <div class="middle">
-                                            <a href="#" class="d-block mb-2"><i class="bi bi-heart"></i></a>
+                                        <a href="<?php echo 'crear_favorito/' . $producto['id']; ?>" class="d-block mb-2"><i class="bi bi-heart"></i></a>
+
                                             <a class="text-reset text-decoration-none d-block" data-bs-toggle="modal" data-bs-target="#productoModal<?= $productoItem['id'] ?>">
                                                 <i class="bi bi-info-circle-fill"></i>
                                             </a>
@@ -169,7 +170,8 @@
                                     <div class="card h-100" id="card-hover">
                                         <img src="<?= base_url() ?>/asset/uploads/<?= $productoItem['img'] ?>" alt="<?= $productoItem['nombre_pro']; ?>" class="card-img-top">
                                         <div class="middle">
-                                            <a href="#" class="d-block mb-2"><i class="bi bi-heart"></i></a>
+                                        <a href="<?php echo 'crear_favorito/' . $producto['id']; ?>" class="d-block mb-2"><i class="bi bi-heart"></i></a>
+
                                             <a class="text-reset text-decoration-none d-block" data-bs-toggle="modal" data-bs-target="#productoModal<?= $productoItem['id'] ?>">
                                                 <i class="bi bi-info-circle-fill"></i>
                                             </a>
@@ -223,7 +225,8 @@
                                     <div class="card h-100" id="card-hover">
                                         <img src="<?= base_url() ?>/asset/uploads/<?= $productoItem['img'] ?>" alt="<?= $productoItem['nombre_pro']; ?>" class="card-img-top">
                                         <div class="middle">
-                                            <a href="#" class="d-block mb-2"><i class="bi bi-heart"></i></a>
+                                        <a href="<?php echo 'crear_favorito/' . $producto['id']; ?>" class="d-block mb-2"><i class="bi bi-heart"></i></a>
+
                                             <a class="text-reset text-decoration-none d-block" data-bs-toggle="modal" data-bs-target="#productoModal<?= $productoItem['id'] ?>">
                                                 <i class="bi bi-info-circle-fill"></i>
                                             </a>
